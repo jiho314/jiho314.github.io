@@ -111,15 +111,16 @@ author:
   # qkrwlgh0314@yonsei.ac.kr            : "qkrwlgh0314@yonsei.ac.kr"
   
   links:
+    - label: "qkrwlgh0314@yonsei.ac.kr"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:qkrwlgh0314@yonsei.ac.kr"  # "mailto:your.name@email.com"  
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jiho314"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "jiho314.github.io"  
-    - label: "qkrwlgh0314@yonsei.ac.kr"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "qkrwlgh0314@yonsei.ac.kr"  # "mailto:your.name@email.com"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "jiho314.github.io"  
+    
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   # url: "https://twitter.com/"
