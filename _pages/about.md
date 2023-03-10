@@ -1,9 +1,6 @@
 ---
-
 permalink : /about/
-
 title: "About Me"
-
 ---
 
 
@@ -17,14 +14,31 @@ B.S. of Electrical and Electronic Engineering
 
 
 
-주
+<!-
+
+-->
+
+
 
 <!-- 
 
 # Projects
 
-- Student Math
-- Virtual Face Similarity Modeling (May.2022 ~ June. 2022)
+- Highschool students mathematical problem solving data clustering and analysis (Oct. 2022 ~ Nov. 2022)
+  Mathflat, freewheelin Inc.
+- Service usage analysis and prediction (Jul. 2022 ~ Aug. 2022)
+  JJAANN Co.
+- Virtual face similarity modeling (May. 2022 ~ June. 2022)
   MetaSoul, Uaround Co., Ltd
+
+
+
+# Research Interest
+
+
+
+
+
+
 
 -->
