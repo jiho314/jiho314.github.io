@@ -26,8 +26,6 @@ B.S. of Electrical and Electronic Engineering
 
 
 
-
-
 # Projects
 
 - Virtual hand drawing simulator (Unity, Python communication project) (Sep. 2022 ~ Dec. 2022)  
@@ -42,7 +40,7 @@ B.S. of Electrical and Electronic Engineering
 - Highschool students' mathematical problem solving data clustering and analysis (Oct. 2022 ~ Nov. 2022)  
   in Datasciencelab Yonsei, with Mathflat, freewheelin Inc.
 - Service usage prediction and analysis (Jul. 2022 ~ Aug. 2022)  
-  in CSE-URP, with JJAANN Co.
+  in CSE-URP Yonsei, with JJAANN Co.
 - Virtual face similarity modeling (May. 2022 ~ June. 2022)  
   in Datasciencelab Yonsei, with MetaSoul, Uaround Co., Ltd
 
