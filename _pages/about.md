@@ -30,20 +30,20 @@ B.S. of Electrical and Electronic Engineering
 
 # Projects
 
-- Virtual hand drawing simulator (Unity, Python communication project) (Sep. 2022 ~ Dec. 2022)
+- Virtual hand drawing simulator (Unity, Python communication project) (Sep. 2022 ~ Dec. 2022)  
   [github link](https://github.com/jiho314/Unity_HandTracking_DeepLearning.git)
-- Cloth Recommendation based on segmentation and data embedding (Mar. 2022 ~ Apr. 2022)
+- Cloth Recommendation based on segmentation and data embedding (Mar. 2022 ~ Apr. 2022)  
   [github_link](https://github.com/jiho314/MaskRCNN-Recommendation.git)
 
 
 
 ### Industry-academia cooperation
 
-- Highschool students' mathematical problem solving data clustering and analysis (Oct. 2022 ~ Nov. 2022)
+- Highschool students' mathematical problem solving data clustering and analysis (Oct. 2022 ~ Nov. 2022)  
   in Datasciencelab Yonsei, with Mathflat, freewheelin Inc.
-- Service usage prediction and analysis (Jul. 2022 ~ Aug. 2022)
+- Service usage prediction and analysis (Jul. 2022 ~ Aug. 2022)  
   in CSE-URP, with JJAANN Co.
-- Virtual face similarity modeling (May. 2022 ~ June. 2022)
+- Virtual face similarity modeling (May. 2022 ~ June. 2022)  
   in Datasciencelab Yonsei, with MetaSoul, Uaround Co., Ltd
 
 
