@@ -9,8 +9,6 @@ title: "About Me"
 
 # Education
 
----
-
 - [Mar. 2019 ~ present] Yonsei University
 B.S. of Electrical and Electronic Engineering 
 
@@ -24,15 +22,11 @@ B.S. of Electrical and Electronic Engineering
 
 # Internship
 
----
-
 - [Jul. 2022 ~ Aug. 2022] CSE(Computational Science and Engineering)-URP Yonsei University
 
 
 
 # Projects
-
----
 
 - Virtual hand drawing simulator (Unity, Python communication project) (Sep. 2022 ~ Dec. 2022)  
   [github link](https://github.com/jiho314/Unity_HandTracking_DeepLearning.git)
@@ -54,7 +48,5 @@ B.S. of Electrical and Electronic Engineering
 
 # Other
 
----
-
-Military Service: Korean Army, Honorable Discharge (Sep. 2020 ~ Mar. 2022)
+- Military Service: Korean Army, Honorable Discharge (Sep. 2020 ~ Mar. 2022)
 
