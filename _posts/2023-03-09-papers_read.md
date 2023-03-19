@@ -21,7 +21,7 @@ categories:
 [CycleGAN] Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks ([link](https://arxiv.org/abs/1703.10593))<br/>
 [DefenseGAN] Protecting Classifiers against Adversarial Attacks using Generative Models ([link](https://arxiv.org/abs/1805.06605))<br/>
 
-
+Continual Learning with Deep Generative Replay
 
 
 
