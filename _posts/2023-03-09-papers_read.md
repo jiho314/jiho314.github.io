@@ -10,11 +10,7 @@ categories:
 
 
 
-# Papers
-
-
-
-## Vision
+# Vision
 
 [VGGNet] Very Deep Convolutional Networks for Large-Scale Image Recognition ([link](https://arxiv.org/abs/1409.1556)) <br/>[*vggnet_review*](https://jiho314.github.io/assets/paper-review/vggnet_review.pdf) <br/>
 
@@ -22,9 +18,7 @@ categories:
 
 
 
-
-
-## Generative
+# Generative
 
 [GAN] Generative Adversarial Nets-2014 ([link](https://arxiv.org/abs/1406.2661))  <br/>
 [cGAN] Conditonal Generative Adversarial Nets - 2014  ([link](https://arxiv.org/abs/1411.1784)) <br/>
