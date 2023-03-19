@@ -16,10 +16,10 @@ categories:
 
 ## Generative
 
-[GAN] Generative Adversarial Nets-2014 ([link](https://arxiv.org/abs/1406.2661))  
-[cGAN] Conditonal Generative Adversarial Nets - 2014  ([link](https://arxiv.org/abs/1411.1784))   
-[CycleGAN] Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks ([link](https://arxiv.org/abs/1703.10593))
-[DefenseGAN] Protecting Classifiers against Adversarial Attacks using Generative Models ([link](https://arxiv.org/abs/1805.06605))
+[GAN] Generative Adversarial Nets-2014 ([link](https://arxiv.org/abs/1406.2661))  <br/>
+[cGAN] Conditonal Generative Adversarial Nets - 2014  ([link](https://arxiv.org/abs/1411.1784)) <br/>
+[CycleGAN] Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks ([link](https://arxiv.org/abs/1703.10593))<br/>
+[DefenseGAN] Protecting Classifiers against Adversarial Attacks using Generative Models ([link](https://arxiv.org/abs/1805.06605))<br/>
 
 
 
