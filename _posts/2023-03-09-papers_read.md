@@ -16,8 +16,10 @@ categories:
 
 ## Generative
 
-Generative Adversarial Nets-2014 ([link](https://arxiv.org/abs/1406.2661))
-Conditonal Generative Adversarial Nets - 2014  ([link](https://arxiv.org/abs/1411.1784))
+[GAN] Generative Adversarial Nets-2014 ([link](https://arxiv.org/abs/1406.2661))  
+[cGAN] Conditonal Generative Adversarial Nets - 2014  ([link](https://arxiv.org/abs/1411.1784))   
+[CycleGAN] Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks ([link](https://arxiv.org/abs/1703.10593))
+[DefenseGAN] Protecting Classifiers against Adversarial Attacks using Generative Models ([link](https://arxiv.org/abs/1805.06605))
 
 
 
@@ -29,10 +31,7 @@ Conditonal Generative Adversarial Nets - 2014  ([link](https://arxiv.org/abs/141
 <details>
 <summary> Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks </summary>
 <div>
-    <object data="http://jiho314.github.io/the.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://yoursite.com/the.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
+    hello
 </object>
 </div>
 </details>
