@@ -1,16 +1,16 @@
 ---
-title: "Papers Read"
+title: "Papers I Read"
 toc: true
 toc_sticky: true
 toc_lable: "Main Contents"
 use_math: true
 categories:
-- read paper
+- papers
 ---
 
 
 
-# Papers Read
+# Papers
 
 
 
@@ -28,7 +28,7 @@ categories:
 
 [GAN] Generative Adversarial Nets-2014 ([link](https://arxiv.org/abs/1406.2661))  <br/>
 [cGAN] Conditonal Generative Adversarial Nets - 2014  ([link](https://arxiv.org/abs/1411.1784)) <br/>
-[CycleGAN] Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks ([link](https://arxiv.org/abs/1703.10593))<br/>[*cyclegan_ppt*](https://jiho314.github.io/assets/presenation/cyclegan_ppt.pdf)
+[CycleGAN] Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks ([link](https://arxiv.org/abs/1703.10593))<br/>[*cyclegan_ppt*](https://jiho314.github.io/assets/presentation/cyclegan_ppt.pdf)
 
 [DefenseGAN] Protecting Classifiers against Adversarial Attacks using Generative Models ([link](https://arxiv.org/abs/1805.06605))<br/>Continual Learning with Deep Generative Replay ([link](https://arxiv.org/abs/1705.08690))<br/>
 
