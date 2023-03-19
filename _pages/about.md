@@ -28,7 +28,7 @@ B.S. of Electrical and Electronic Engineering
 
 # Projects
 
-- Virtual hand drawing simulator (Unity, Python communication project) (Sep. 2022 ~ Dec. 2022)  
+- Virtual hand drawing simulator (Unity, Python communication project) (Nov. 2022 ~ Dec. 2022)  
   [github link](https://github.com/jiho314/Unity_HandTracking_DeepLearning.git)
 - Cloth Recommendation based on segmentation and data embedding (Mar. 2022 ~ Apr. 2022)  
   [github_link](https://github.com/jiho314/MaskRCNN-Recommendation.git)
