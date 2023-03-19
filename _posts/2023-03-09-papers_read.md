@@ -22,6 +22,11 @@ Conditonal Generative Adversarial Nets - 2014  ([link](https://arxiv.org/abs/141
 
 
 
+Generative Adversarial Nets-2014 ([link](https://arxiv.org/abs/1406.2661))
+Conditonal Generative Adversarial Nets - 2014  ([link](https://arxiv.org/abs/1411.1784))
+
+
+
 - Conditonal Generative Adversarial Nets - 2014  ([link](https://arxiv.org/abs/1411.1784))
 
 - Conditonal Generative Adversarial Nets - 2014  ([link](https://arxiv.org/abs/1411.1784))
