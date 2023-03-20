@@ -281,6 +281,8 @@ compress_html:
 
 # Defaults
 defaults:
+  - value:
+    use_math: true
   # _posts
   - scope:
       path: ""
