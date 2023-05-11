@@ -65,7 +65,14 @@ Email: qkrwlgh0314@yonsei.ac.kr <br/>Github: [jiho314](https://github.com/jiho31
 
 ### - Generative
 
-> [GAN] Generative Adversarial Nets-2014 <br/>[cGAN] Conditonal Generative Adversarial Nets - 2014  <br/>[CycleGAN] Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks [*cyclegan_ppt* ](https://jiho314.github.io/assets/presentation/cyclegan_ppt.pdf)<br/>[DefenseGAN] Protecting Classifiers against Adversarial Attacks using Generative Models<br/>[DallE1] Zero-Shot Text-to-Image Generation<br/>Understanding Diffusion Models: A Unified Perspective [*diffusion_ppt*](https://jiho314.github.io/assets/presentation/diffusion_ppt.pdf)<br/>[DDPM] Denoising Diffusion Probabilistic Models <br/>
+> [GAN] Generative Adversarial Nets <br/>[cGAN] Conditonal Generative Adversarial Nets  <br/>[CycleGAN] Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks [*cyclegan_ppt* ](https://jiho314.github.io/assets/presentation/cyclegan_ppt.pdf)<br/>[DefenseGAN] Protecting Classifiers against Adversarial Attacks using Generative Models<br/>[DallE1] Zero-Shot Text-to-Image Generation<br/>Understanding Diffusion Models: A Unified Perspective [*diffusion_ppt*](https://jiho314.github.io/assets/presentation/diffusion_ppt.pdf)<br/>[DDPM] Denoising Diffusion Probabilistic Models <br/>[Latent Diffusion] High-Resolution Image Synthesis with Latent Diffusion Models <br/>
+
+### - Others
+
+> Attention is all you need
+> 
+
+
 
 ### Studying Paper
 
