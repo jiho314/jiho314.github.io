@@ -8,10 +8,10 @@ title: "About Me"
 
 # Education
 
-- B.S. of Electrical and Electronic Engineering, Yonsei University   
-  *(Mar. 2019 ~ present) GPA 4.11/4.5 [(transcript)](https://jiho314.github.io/assets/transcript(22-2).pdf)*
+- ​	B.S. of Electrical and Electronic Engineering, Yonsei University   
+  *(Mar. 2019 ~ present) GPA 3.95/4.3 (Major 4.05/4.3) [(transcript)](https://jiho314.github.io/assets/transcript(22-2).pdf)*
 
-
+ [](박지호_KAIRI_Research field 1 (Professor's Name)_Research field 2 (Professor's Name).pdf)
 
 # Projects
 
@@ -65,7 +65,7 @@ title: "About Me"
 
 ### - Generative
 
-> [GAN] Generative Adversarial Nets <br/>[cGAN] Conditonal Generative Adversarial Nets  <br/>[CycleGAN] Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks [*cyclegan_ppt* ](https://jiho314.github.io/assets/presentation/cyclegan_ppt.pdf)<br/>[DefenseGAN] Protecting Classifiers against Adversarial Attacks using Generative Models<br/>[DallE1] Zero-Shot Text-to-Image Generation<br/>Understanding Diffusion Models: A Unified Perspective [*diffusion_ppt*](https://jiho314.github.io/assets/presentation/diffusion_ppt.pdf)<br/>[DDPM] Denoising Diffusion Probabilistic Models <br/>[Latent Diffusion] High-Resolution Image Synthesis with Latent Diffusion Models <br/>
+> [GAN] Generative Adversarial Nets <br/>[cGAN] Conditonal Generative Adversarial Nets  <br/>[CycleGAN] Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks [*cyclegan_ppt* ](https://jiho314.github.io/assets/presentation/cyclegan_ppt.pdf)<br/>[DefenseGAN] Protecting Classifiers against Adversarial Attacks using Generative Models<br/>[DallE1] Zero-Shot Text-to-Image Generation<br/>Understanding Diffusion Models: A Unified Perspective [*diffusion_ppt*](https://jiho314.github.io/assets/presentation/diffusion_ppt.pdf)<br/>[DDPM] Denoising Diffusion Probabilistic Models <br/>[Latent Diffusion] High-Resolution Image Synthesis with Latent Diffusion Models <br/>[ControlNet] Adding Conditional Control to Text-to-Image Diffusion Models
 
 ### - Others
 
