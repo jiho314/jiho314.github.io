@@ -3,8 +3,6 @@ permalink : /about/
 title: "About Me"
 ---
 
-
-
 Name: 박지호 <br/>Birth: 2000.03.14 <br/>
 Email: qkrwlgh0314@yonsei.ac.kr <br/>Github: [jiho314](https://github.com/jiho314)
 
@@ -18,6 +16,8 @@ Email: qkrwlgh0314@yonsei.ac.kr <br/>Github: [jiho314](https://github.com/jiho31
 - CSE(Computational Science and Engineering)-URP Yonsei University  
   *(Jul. 2022 ~ Aug. 2022)*
 
+
+
 # Projects
 
 - Sketch&Prompt-to-Image using ControlNet(Latent Diffusion) (Web Application Project)  
@@ -27,9 +27,7 @@ Email: qkrwlgh0314@yonsei.ac.kr <br/>Github: [jiho314](https://github.com/jiho31
 - Cloth recommendation based on segmentation and data embedding   
   *(Mar. 2022 ~ Apr. 2022)  [github_link](https://github.com/jiho314/MaskRCNN-Recommendation.git)*
 
-
-
-### Industry-academia cooperation
+## Industry-academia cooperation
 
 - Highschool students' mathematical problem solving data clustering and analysis   
   *in Datasciencelab(Data science society in Yonsei), with Mathflat, freewheelin Inc.*   
@@ -50,13 +48,15 @@ Email: qkrwlgh0314@yonsei.ac.kr <br/>Github: [jiho314](https://github.com/jiho31
 
 
 
----
+
+
+
 
 ---
-
-
 
 # Studied Paper
+
+---
 
 ### - Vision
 
@@ -70,9 +70,6 @@ Email: qkrwlgh0314@yonsei.ac.kr <br/>Github: [jiho314](https://github.com/jiho31
 ### - Others
 
 > Attention is all you need
-> 
 
 
-
-### Studying Paper
 
