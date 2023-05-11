@@ -11,11 +11,6 @@ Email: qkrwlgh0314@yonsei.ac.kr <br/>Github: [jiho314](https://github.com/jiho31
 - B.S. of Electrical and Electronic Engineering, Yonsei University   
   *(Mar. 2019 ~ present) GPA 4.11/4.5 [(transcript)](https://jiho314.github.io/assets/transcript(22-2).pdf)*
 
-# Internship
-
-- CSE(Computational Science and Engineering)-URP Yonsei University  
-  *(Jul. 2022 ~ Aug. 2022)*
-
 
 
 # Projects
@@ -25,7 +20,7 @@ Email: qkrwlgh0314@yonsei.ac.kr <br/>Github: [jiho314](https://github.com/jiho31
 - Virtual hand drawing simulator (Unity, Python communication project)  
   *(Nov. 2022 ~ Dec. 2022)  [github link](https://github.com/jiho314/Unity_HandTracking_DeepLearning.git)*
 - Cloth recommendation based on segmentation and data embedding   
-  *(Mar. 2022 ~ Apr. 2022)  [github_link](https://github.com/jiho314/MaskRCNN-Recommendation.git)*
+  *(Mar. 2022 ~ Apr. 2022)  [github_link](https://github.com/jiho314/MaskRCNN-Recommendation.git)*    
 
 ## Industry-academia cooperation
 
@@ -41,6 +36,13 @@ Email: qkrwlgh0314@yonsei.ac.kr <br/>Github: [jiho314](https://github.com/jiho31
 
 
 
+# Internship
+
+- CSE(Computational Science and Engineering)-URP Yonsei University  
+  *(Jul. 2022 ~ Aug. 2022)*
+
+
+
 # Military Service
 
 - Korean Army, Honorable Discharge  
@@ -50,7 +52,7 @@ Email: qkrwlgh0314@yonsei.ac.kr <br/>Github: [jiho314](https://github.com/jiho31
 
 
 
-
+​	
 
 ---
 
