@@ -3,12 +3,6 @@ permalink : /about/
 title: "박지호"
 ---
 
-<p>
-<div class=pull-right> https://jiho314.github.io/assets/imgs/me.jpg </div> - Birth: 2000.03.14 <br/>Email: qkrwlgh0314@yonsei.ac.kr <br/>Github: [jiho314](
-</p>
-
-
-
 <img src = "https://jiho314.github.io/assets/imgs/me.jpg" width = "30%">
 
 - Birth: 2000.03.14 <br/>Email: qkrwlgh0314@yonsei.ac.kr <br/>Github: [jiho314](https://github.com/jiho314)
