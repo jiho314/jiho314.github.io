@@ -5,9 +5,6 @@ title: "박지호"
 
 - Birth: 2000.03.14 <br/>Email: qkrwlgh0314@yonsei.ac.kr <br/>Github: [jiho314](https://github.com/jiho314)
 
-  
-  
-  I'm recently interested in Diffusion Models and studying about it with few projects.  
 
 # Education
 
@@ -53,7 +50,7 @@ title: "박지호"
 
 ## Scholarship
 
-- Yonsei Veritas(High-academic Performers) Scholarship 
+- Yonsei Veritas(High-academic Performers) Scholarship   
   (2022-2, 2023-1)
 
 
@@ -75,8 +72,13 @@ title: "박지호"
 
 ### - Diffusion
 
-> Understanding Diffusion Models: A Unified Perspective [***diffusion_ppt***](https://jiho314.github.io/assets/presentation/diffusion_ppt.pdf)<br/>[DDPM] Denoising Diffusion Probabilistic Models <br/>[Latent Diffusion] High-Resolution Image Synthesis with Latent Diffusion Models <br/>[ControlNet] Adding Conditional Control to Text-to-Image Diffusion Models [github_link](https://github.com/devch1013/YAICON-Ditto) <br/>
-> Video Diffusion 
+> Understanding Diffusion Models: A Unified Perspective [***diffusion_ppt***](https://jiho314.github.io/assets/presentation/diffusion_ppt.pdf)<br/>[DDPM] Denoising Diffusion Probabilistic Models <br/>[Latent Diffusion] High-Resolution Image Synthesis with Latent Diffusion Models <br/>[ControlNet] Adding Conditional Control to Text-to-Image Diffusion Models <br/>Video Diffusion Models (reading) <br/>
+
+
+
+### - 3D
+
+> NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis <br/>
 
 
 
