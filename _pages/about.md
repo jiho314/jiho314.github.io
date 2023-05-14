@@ -2,7 +2,7 @@
 permalink : /about/
 ---
 
-<img style = "float: right;" src = "https://jiho314.github.io/assets/imgs/me.jpg" width = "30%" >
+<img style = "float: right;" src = "https://jiho314.github.io/assets/imgs/me0.jpg" width = "30%" >
 
 # About Me
 
