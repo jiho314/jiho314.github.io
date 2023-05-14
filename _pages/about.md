@@ -11,8 +11,6 @@ title: "박지호"
 
 <br/>
 
-<br/>
-
 # Education
 
 - B.S. of Electrical and Electronic Engineering, Yonsei University   
