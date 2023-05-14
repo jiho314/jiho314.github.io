@@ -77,7 +77,7 @@ permalink : /about/
 
 ### - Diffusion
 
-> Understanding Diffusion Models: A Unified Perspective [***diffusion_ppt***](https://jiho314.github.io/assets/presentation/diffusion_ppt.pdf)<br/>[DDPM] Denoising Diffusion Probabilistic Models <br/>[Latent Diffusion] High-Resolution Image Synthesis with Latent Diffusion Models <br/>[ControlNet] Adding Conditional Control to Text-to-Image Diffusion Models <br/>Video Diffusion Models (reading) <br/>
+> Understanding Diffusion Models: A Unified Perspective [***Diffusion_Presentation***](https://jiho314.github.io/assets/presentation/diffusion_ppt.pdf)<br/>[DDPM] Denoising Diffusion Probabilistic Models <br/>[Latent Diffusion] High-Resolution Image Synthesis with Latent Diffusion Models <br/>[ControlNet] Adding Conditional Control to Text-to-Image Diffusion Models <br/>Video Diffusion Models (reading) <br/>
 
 
 
