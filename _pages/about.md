@@ -12,7 +12,7 @@ title: "박지호"
 # Education
 
 - B.S. of Electrical and Electronic Engineering, Yonsei University   
-  *2nd semester of 3rd-year, GPA 3.95/4.3 (Major 4.05/4.3) [(transcript) ](https://jiho314.github.io/assets/박지호_KAIRI Diffusion (황성주)_Research field 2 (Professor's Name).pdf)*  
+  *2nd semester of 3rd-year, GPA 3.95/4.3 (Major 4.05/4.3) [(transcript) ](https://jiho314.github.io/assets/박지호_KAIRI Controllable Video Generation with StableDiffusion (황성주)_NeRF (주재걸).pdf)*  
   *(Mar. 2019 ~ present)*
 
 # Projects
@@ -53,7 +53,7 @@ title: "박지호"
 
 ## Scholarship
 
-- Yonsei Jilli(High-academic Performers) Scholarship 
+- Yonsei Veritas(High-academic Performers) Scholarship 
   (2022-2, 2023-1)
 
 
