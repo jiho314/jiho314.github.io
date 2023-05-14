@@ -4,9 +4,7 @@ title: "박지호"
 ---
 
 <p>
-<div class=pull-right> https://jiho314.github.io/assets/imgs/me.jpg
-<center></center>
-</div> - Birth: 2000.03.14 <br/>Email: qkrwlgh0314@yonsei.ac.kr <br/>Github: [jiho314](
+<div class=pull-right> https://jiho314.github.io/assets/imgs/me.jpg </div> - Birth: 2000.03.14 <br/>Email: qkrwlgh0314@yonsei.ac.kr <br/>Github: [jiho314](
 </p>
 
 
