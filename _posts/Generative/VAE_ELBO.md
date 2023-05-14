@@ -1,4 +1,4 @@
-## Maximizing ELBO의 posterior 근사 의의는 VAE에서 사라지는가?
+# Maximizing ELBO의 posterior 근사 의의는 VAE에서 사라지는가?
 
 Maximizing ELBO의 의의는 크게 ELBO 내부에서와, ELBO가 유도된 전체 식에서로 나누어 볼 수 있다. ELBO 내부의 reconstruction term 과 prior matching term은 VAE를 공부한 사람이라면 모두 알 것이다. 이 글은, ELBO를 포함한 전체 식에서 일어나는 일에 대한 것이다. 이와 관련해 공부하다가 상충된 두 개의 논리가 등장해 고민해 보았다.
 
