@@ -8,6 +8,8 @@ title: "About Me"
 - Name: 박지호 <br/>
   Birth: 2000.03.14 <br/>Email: qkrwlgh0314@yonsei.ac.kr <br/>Github: [jiho314](https://github.com/jiho314)
 
+<br/>
+
 # Education
 
 - B.S. of Electrical and Electronic Engineering, Yonsei University   
@@ -16,7 +18,7 @@ title: "About Me"
 
 # Projects
 
-- ###### Sketch&Prompt-to-Image using ControlNet(Latent Diffusion) (Web Application Project)  <br/>*(Apr.2023 ~ May.2023) [github_link](https://github.com/devch1013/YAICON-Ditto)*
+- ###### Sketch&Prompt-to-Image using ControlNet(Latent Diffusion) (Web Application Project)  <br/>*(Apr.2023 ~ May.2023) [github_link](https://github.com/jiho314/YAICON-Ditto)*
 - Virtual hand drawing simulator (Unity, Python communication project)  
   *(Nov. 2022 ~ Dec. 2022) [github link](https://github.com/jiho314/Unity_HandTracking_DeepLearning.git)*
 - Cloth recommendation based on segmentation and data embedding   
