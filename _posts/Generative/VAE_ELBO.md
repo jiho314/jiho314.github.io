@@ -8,11 +8,11 @@ categories:
 - Generative
 ---
 
+## Maximizing ELBO의 posterior 근사 의의는 VAE에서 사라지는가?
 
+Maximizing ELBO의 의의는 크게 ELBO 내부에서와, ELBO가 유도된 전체 식에서로 나누어 볼 수 있다. ELBO 내부의 reconstruction term 과 prior matching term은 VAE를 공부한 사람이라면 모두 알 것이다. 이 글은, ELBO를 포함한 전체 식에서 일어나는 일에 대한 것이다. 이와 관련해 공부하다가 상충된 두 개의 논리가 등장해 고민해 보았다.
 
-Maximizing ELBO의 의의는 크게 ELBO 내부에서의 효과와, ELBO가 유도된 전체 식에서의 의의로 나누어 볼 수 있다. ELBO 내부의 reconstruction term 과 prior matching term은 VAE를 공부한 사람이라면 모두 알 것이다. 이 글은, ELBO를 포함한 전체 식에서 일어나는 일에 대한 것이다. 이와 관련해 공부하다가 상충된 두 개의 논리가 등장해 고민해 보았다.
-
-## Maximizing ELBO: Original
+### Maximizing ELBO: Original
 
 ELBO의 원래 의의는 posterior를 근사하는데 있다.  
 (True distribution $p$에 대해서, posterior가  $p(z|x)$ 인 상황)   
@@ -38,7 +38,7 @@ $$
 
 
 
-## Maximizing ELBO: in VAE
+### Maximizing ELBO: in VAE
 
 하지만 VAE에서는 전혀 다른 논리를 가져온다. Generation을 위한 $\theta$가 도입되면서 좌변은, $p_\theta$($\theta$가 만들어내는 distribution)에 대한 train data $x$ 의 확률을 의미하게 되었다. 따라서 좌변이 maximize 될수록 $\theta$ 가 생성하는 data의 distribution은 train data $x$ 에 가까워질 것이다.  그렇다면 간단하게 ELBO를 maximize하면 $\log p_\theta(x)$ 역시 Maximize 될 것이고, 이것이 VAE에서 말하는 Maximizing ELBO의 의의이다.
 
