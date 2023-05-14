@@ -1,6 +1,6 @@
 ---
 permalink : /about/
-title: "박지호"
+title: "About 박지호"
 ---
 
 <img style = "float: right;" src = "https://jiho314.github.io/assets/imgs/me.jpg" width = "30%" >
