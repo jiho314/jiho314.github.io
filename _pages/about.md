@@ -3,8 +3,9 @@ permalink : /about/
 title: "박지호"
 ---
 
-- Birth: 2000.03.14 <br/>Email: qkrwlgh0314@yonsei.ac.kr <br/>Github: [jiho314](https://github.com/jiho314)
+<img src = "https://jiho314.github.io/assets/imgs/me.jpg" width ="800">
 
+- Birth: 2000.03.14 <br/>Email: qkrwlgh0314@yonsei.ac.kr <br/>Github: [jiho314](https://github.com/jiho314)
 
 # Education
 
