@@ -1,13 +1,3 @@
----
-title: "Maximizing ELBO의 posterior 근사 의의는 VAE에서 사라지는가?"
-toc: true
-toc_sticky: true
-toc_lable: "Main Contents"
-use_math: true
-categories:
-- Generative
----
-
 ## Maximizing ELBO의 posterior 근사 의의는 VAE에서 사라지는가?
 
 Maximizing ELBO의 의의는 크게 ELBO 내부에서와, ELBO가 유도된 전체 식에서로 나누어 볼 수 있다. ELBO 내부의 reconstruction term 과 prior matching term은 VAE를 공부한 사람이라면 모두 알 것이다. 이 글은, ELBO를 포함한 전체 식에서 일어나는 일에 대한 것이다. 이와 관련해 공부하다가 상충된 두 개의 논리가 등장해 고민해 보았다.
@@ -26,9 +16,9 @@ D_{KL}(q_\phi(z|x)||p(z|x)) &= E_{q_\phi(z|x)}[\log \frac{q_\phi(z|x)}{p(z|x)}]
 	&= -\text{ELBO} + \log p(x)
 \end{align}
 $$
-위의 식을 $p(x)$를 기준으로 정리하면 아래와 같다. 중요한 것은 $p(x)$는 고정된 사건(데이터) $x$ 에 대해서 고정된 확률 값을 갖는다는 것이다.
+위의 식을 $p(x)$를 기준으로 정리하면 아래와 같다. 중요한 것은 $p(x)$는 고정된  $x$ 에 대해서는 고정된 확률 값을 갖는다는 것이다. 
 
-따라서 ELBO를 maximizing 하는 것은 KL-Divergence term을 최소화 함으로서 원래 목적이었던 posterior 근사를 가능하게 해준다. 하나 기억해야할 것은 KL-D term이 최소화 되는 것은 $p(x)$가 고정이었기 때문에 가능한 것이다.
+그렇기에, ELBO를 maximizing 하는 것은 KL-Divergence term을 최소화 함으로서 원래 목적이었던 posterior 근사를 가능하게 해준다. (기억해야할 것은 KL-D term이 최소화 되는 것은 $p(x)$가 고정이었기 때문에 가능한 것이다.)
 $$
 \begin{equation}
 \log p(x) = \text{ELBO} + D_{KL}(q_{\phi}(z|x)||p(z|x))
