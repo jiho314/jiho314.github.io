@@ -5,11 +5,8 @@ title: "About Me"
 
 <img style = "float: right;" src = "https://jiho314.github.io/assets/imgs/me.jpg" width = "30%" >
 
-- 
-  Name: 박지호 <br/>
+- Name: 박지호 <br/>
   Birth: 2000.03.14 <br/>Email: qkrwlgh0314@yonsei.ac.kr <br/>Github: [jiho314](https://github.com/jiho314)
-
-<br/><br/>
 
 # Education
 
