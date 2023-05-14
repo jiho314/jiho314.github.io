@@ -1,26 +1,27 @@
 ---
 permalink : /about/
-title: "About Me"
+title: "박지호"
 ---
 
-- Name: 박지호 <br/>Birth: 2000.03.14 <br/>
-  Email: qkrwlgh0314@yonsei.ac.kr <br/>Github: [jiho314](https://github.com/jiho314)
+- Birth: 2000.03.14 <br/>Email: qkrwlgh0314@yonsei.ac.kr <br/>Github: [jiho314](https://github.com/jiho314)
+
+  
+  
+  I'm recently interested in Diffusion Models and studying about it with few projects.  
 
 # Education
 
-- ​	B.S. of Electrical and Electronic Engineering, Yonsei University   
-  *(Mar. 2019 ~ present) GPA 3.95/4.3 (Major 4.05/4.3) [(transcript)](https://jiho314.github.io/assets/transcript(22-2).pdf)*
-
- [](박지호_KAIRI_Research field 1 (Professor's Name)_Research field 2 (Professor's Name).pdf)
+- B.S. of Electrical and Electronic Engineering, Yonsei University   
+  *2nd semester of 3rd-year, GPA 3.95/4.3 (Major 4.05/4.3) [(transcript) ](https://jiho314.github.io/assets/박지호_KAIRI Diffusion (황성주)_Research field 2 (Professor's Name).pdf)*  
+  *(Mar. 2019 ~ present)*
 
 # Projects
 
-- Sketch&Prompt-to-Image using ControlNet(Latent Diffusion) (Web Application Project)  
-  *(Apr.2023 ~ May.2023) [github_link](https://github.com/devch1013/YAICON-Ditto)*
+- ###### Sketch&Prompt-to-Image using ControlNet(Latent Diffusion) (Web Application Project)  <br/>*(Apr.2023 ~ May.2023) [github_link](https://github.com/devch1013/YAICON-Ditto)*
 - Virtual hand drawing simulator (Unity, Python communication project)  
-  *(Nov. 2022 ~ Dec. 2022)  [github link](https://github.com/jiho314/Unity_HandTracking_DeepLearning.git)*
+  *(Nov. 2022 ~ Dec. 2022) [github link](https://github.com/jiho314/Unity_HandTracking_DeepLearning.git)*
 - Cloth recommendation based on segmentation and data embedding   
-  *(Mar. 2022 ~ Apr. 2022)  [github_link](https://github.com/jiho314/MaskRCNN-Recommendation.git)*    
+  *(Mar. 2022 ~ Apr. 2022) [github_link](https://github.com/jiho314/MaskRCNN-Recommendation.git)*    
 
 ## Industry-academia cooperation
 
@@ -50,6 +51,11 @@ title: "About Me"
 
 
 
+## Scholarship
+
+- Yonsei Jilli(High-academic Performers) Scholarship 
+  (2022-2, 2023-1)
+
 
 
 ​	
@@ -65,11 +71,12 @@ title: "About Me"
 
 ### - Generative
 
-> [GAN] Generative Adversarial Nets <br/>[cGAN] Conditonal Generative Adversarial Nets  <br/>[CycleGAN] Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks [*cyclegan_ppt* ](https://jiho314.github.io/assets/presentation/cyclegan_ppt.pdf)<br/>[DefenseGAN] Protecting Classifiers against Adversarial Attacks using Generative Models<br/>[DallE1] Zero-Shot Text-to-Image Generation<br/>Understanding Diffusion Models: A Unified Perspective [*diffusion_ppt*](https://jiho314.github.io/assets/presentation/diffusion_ppt.pdf)<br/>[DDPM] Denoising Diffusion Probabilistic Models <br/>[Latent Diffusion] High-Resolution Image Synthesis with Latent Diffusion Models <br/>[ControlNet] Adding Conditional Control to Text-to-Image Diffusion Models
+> [GAN] Generative Adversarial Nets <br/>[cGAN] Conditonal Generative Adversarial Nets  <br/>[CycleGAN] Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks [*cyclegan_ppt* ](https://jiho314.github.io/assets/presentation/cyclegan_ppt.pdf)<br/>[DefenseGAN] Protecting Classifiers against Adversarial Attacks using Generative Models<br/>[DallE1] Zero-Shot Text-to-Image Generation<br/>
 
-### - Others
+### - Diffusion
 
-> Attention is all you need
+> Understanding Diffusion Models: A Unified Perspective [***diffusion_ppt***](https://jiho314.github.io/assets/presentation/diffusion_ppt.pdf)<br/>[DDPM] Denoising Diffusion Probabilistic Models <br/>[Latent Diffusion] High-Resolution Image Synthesis with Latent Diffusion Models <br/>[ControlNet] Adding Conditional Control to Text-to-Image Diffusion Models [github_link](https://github.com/devch1013/YAICON-Ditto) <br/>
+> Video Diffusion 
 
 
 
