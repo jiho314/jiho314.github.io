@@ -51,9 +51,7 @@ permalink : /about/
 - Korean Army, Honorable Discharge  
   *(Sep. 2020 ~ Mar. 2022)*
 
-
-
-## Scholarship
+# Scholarship
 
 - Yonsei Veritas(High-academic Performers) Scholarship   
   *(2022-2, 2023-1)*
