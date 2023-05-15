@@ -56,7 +56,7 @@ permalink : /about/
 ## Scholarship
 
 - Yonsei Veritas(High-academic Performers) Scholarship   
-  (2022-2, 2023-1)
+  *(2022-2, 2023-1)*
 
 
 
