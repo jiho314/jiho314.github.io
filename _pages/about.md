@@ -77,11 +77,13 @@ permalink : /about/
 
 > Understanding Diffusion Models: A Unified Perspective [***Diffusion_Presentation***](https://jiho314.github.io/assets/presentation/diffusion_ppt.pdf)<br/>[DDPM] Denoising Diffusion Probabilistic Models <br/>[Latent Diffusion] High-Resolution Image Synthesis with Latent Diffusion Models <br/>[ControlNet] Adding Conditional Control to Text-to-Image Diffusion Models <br/>Video Diffusion Models (reading) <br/>
 
-
-
 ### - 3D
 
-> NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis <br/>
+> NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis [*nerf_ppt*](https://jiho314.github.io/assets/presentation/nerf_ppt.pdf) <br/>
 
 
 
+### - NLP
+
+> Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling <br/>Sequence to Sequence Learning with Neural Networks <br/>
+> Attention is all you need
