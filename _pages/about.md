@@ -26,7 +26,7 @@ permalink : /about/
 - Cloth recommendation based on segmentation and data embedding   
   *(Mar. 2022 ~ Apr. 2022) [github_link](https://github.com/jiho314/MaskRCNN-Recommendation.git)*    
 
-## Industry-academia cooperation
+## Industry-academia cooperation projects
 
 - Highschool students' mathematical problem solving data clustering and analysis   
   *in Datasciencelab(Data science society in Yonsei), with Mathflat, freewheelin Inc.*   
