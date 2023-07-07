@@ -83,8 +83,7 @@ __________
 
 ### - 3D
 
-> NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis [*nerf_ppt*](https://jiho314.github.io/assets/presentation/nerf_ppt.pdf) <br/>Neural 3D Scene Reconstruction with the Manhattan-world Assumption [ManhattanSDF_ppt](https://jiho314.github.io/assets/presentation/ManhattanSDF_ppt.pdf)<br/>
-> TensoRF: Tensorial Radiance Fields <br/>
+> NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis [*nerf_ppt*](https://jiho314.github.io/assets/presentation/nerf_ppt.pdf) <br/>NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction <br/>Neural 3D Scene Reconstruction with the Manhattan-world Assumption [ManhattanSDF_ppt](https://jiho314.github.io/assets/presentation/ManhattanSDF_ppt.pdf)<br/>TensoRF: Tensorial Radiance Fields <br/>
 
 ### - NLP
 
