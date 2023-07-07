@@ -14,7 +14,7 @@ permalink : /about/
 # Education
 
 - B.S. of Electrical and Electronic Engineering, Yonsei University   
-  *2nd semester of 3rd-year, GPA 4.03/4.3 (Major 4.08/4.3) ([transcript](https://jiho314.github.io/assets/박지호_KAIRI Controllable Video Generation with StableDiffusion (황성주)_NeRF (주재걸).pdf))*  
+  *2nd semester of 3rd-year, GPA 4.03/4.3 (Major 4.08/4.3) ([transcript](https://jiho314.github.io/assets/transcript(23-1).pdf))*  
   *(Mar. 2019 ~ present)*
 
 # Projects
