@@ -6,7 +6,7 @@ permalink : /about/
 
 # About Me
 
-- Name: **박지호** <br/>
+- Name: **Park, Jiho** <br/>
   Birth: 2000.03.14 <br/>Email: qkrwlgh0314@yonsei.ac.kr <br/>Github: [jiho314](https://github.com/jiho314)
 
 <br/>
@@ -14,19 +14,25 @@ permalink : /about/
 # Education
 
 - B.S. of Electrical and Electronic Engineering, Yonsei University   
-  *2nd semester of 3rd-year, GPA 4.03/4.3 (Major 4.08/4.3) ([transcript](https://jiho314.github.io/assets/transcript(23-1).pdf))*  
+  *1st semester of 4th-year, GPA 4.05/4.3 (Major 4.08/4.3) ([transcript](https://jiho314.github.io/assets/transcript_4-1(eng).pdf))*  
   *(Mar. 2019 ~ present)*
 
 # Projects
 
-- [OOD Detection Research Project] Exploring the generative model for OOD Detection, with Hierarchical Self-Conditioned AutoEncoder <br/> (Jun.2023) [***report_link***](https://jiho314.github.io/assets/MNIST_OOD_HSCAE.pdf)
-- [ControlNet Web Application Project] Sketch&Prompt-to-Image using ControlNet <br/>(Apr.2023 ~ May.2023) [github_link](https://github.com/jiho314/YAICON-Ditto)
+- 4D Head Reconstruction: Leveraging Semantic information for 4D Gaussian Splatting<br/>*(Nov.2023*) [github_link](https://github.com/whwjdqls/4D-Gaussian-Head.git)
+- [OOD Detection Research Project] Exploring the generative model for OOD Detection, with Hierarchical Self-Conditioned AutoEncoder <br/> *(Jun.2023)* [***report_link***](https://jiho314.github.io/assets/MNIST_OOD_HSCAE.pdf)
+- [Diffusion Model Web Application Project] Sketch&Prompt-to-Image using ControlNet <br/>*(Apr.2023 ~ May.2023) [github_link](https://github.com/devch1013/YAICON-Ditto)*
 - Virtual hand drawing simulator (Unity, Python communication project)  
   *(Nov. 2022 ~ Dec. 2022) [github link](https://github.com/jiho314/Unity_HandTracking_DeepLearning.git)*
 - Cloth recommendation based on segmentation and data embedding   
-  *(Mar. 2022 ~ Apr. 2022) [github_link](https://github.com/jiho314/MaskRCNN-Recommendation.git)*    
+  *(Mar. 2022 ~ Apr. 2022) [github_link](https://github.com/yejin109/MaskRCNN-Recommendation)*    
 
 ## Industry-academia cooperation projects
+
+- R&D for Image Editing Services
+   *in YAI(AI club in Yonsei), with [Rebuilder AI](https://rebuilderai.com/)*
+  - Background generation for commercial product
+  - Saliency-aware product segmentation
 
 - Highschool students' mathematical problem solving data clustering and analysis   
   *in Datasciencelab(Data science society in Yonsei), with Mathflat, freewheelin Inc.*   
@@ -42,6 +48,7 @@ permalink : /about/
 
 # Internship
 
+- Undergraduate Research Intern
 - CSE(Computational Science and Engineering)-URP Yonsei University  
   *(Jul. 2022 ~ Aug. 2022)*
 
@@ -55,15 +62,11 @@ permalink : /about/
 # Scholarship
 
 - Yonsei Veritas(High-academic Performers) Scholarship   
-  *(2022-2, 2023-1)*
+  *(2022-2, 2023-1, 2023-2)*
 
 
 
-
-
----
-
-__________
+<!--
 
 # Studied Paper
 
@@ -91,4 +94,6 @@ __________
 > Attention is all you need
 
 
+
+-->
 
