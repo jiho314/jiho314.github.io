@@ -29,7 +29,7 @@ permalink : /about/
 
 ## Industry-academia cooperation projects
 
-- R&D for Image Editing Services
+- R&D for Image Editing Services <br/>
    *in YAI(AI club in Yonsei), with [Rebuilder AI](https://rebuilderai.com/)*
   - Background generation for commercial product
   - Saliency-aware product segmentation
