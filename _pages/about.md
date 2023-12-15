@@ -14,7 +14,7 @@ permalink : /about/
 # Education
 
 - B.S. of Electrical and Electronic Engineering, Yonsei University   
-  *1st semester of 4th-year, GPA 4.05/4.3 (Major 4.08/4.3) ([transcript](https://jiho314.github.io/assets/transcript_4-1(eng).pdf))*  
+  *1st semester of 4th-year, GPA 4.05/4.3 (Major 4.08/4.3) ([transcript](https://jiho314.github.io/assets/transcript/transcript_4-1(eng).pdf))*  
   *(Mar. 2019 ~ present)*
 
 # Projects
