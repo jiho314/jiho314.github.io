@@ -44,7 +44,7 @@ permalink : /about/
 
 - 고등학교 수학 문제풀이 데이터 분석 및 클러스트링   
   *in DataScienceLab, with Mathflat, freewheelin Inc.*   
-  *(Oct. 2022 ~ Nov. 2022)*
+  *(Oct.2022 ~ Nov.2022)*
 - 온라인 플랫폼 서비스 데이터 예측 및 분석
   *in MIDaS Lab, with JJAANN Co.*  
   *(Jul. 2022 ~ Aug. 2022)*
@@ -53,12 +53,8 @@ permalink : /about/
 
 # Scholarship
 
-- 연세대학교 <br/>
-  진리 장학금(Honors) <br/>
-  (2022-1, 2022-2) <br/>
-  
-  진리 장학금(High Honors) <br/>
-  (2023-1)
+- 연세대학교 진리 장학<br/>
+  Honors: 2022-1, 2022-2 <br/>High Honors: 2023-1
 
 - 한성손재한장학회  <br/>
   한성 노벨 장학금 Approx. 8000 USD in total (awarded to up to 200 people every year) <br/>(2017-2018)
