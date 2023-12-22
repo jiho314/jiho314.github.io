@@ -32,7 +32,7 @@ permalink : /about/
   - Unity Virtual Hand 구현 및 Python 통신 담당 
 
 
-## 산학 협력 프로젝트
+## 산학 협력 Projects
 
 - Image Editing Service R&D <br/>
   *in YAI(인공지능 학회), with [Rebuilder AI](https://rebuilderai.com/)*
