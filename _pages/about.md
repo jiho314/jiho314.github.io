@@ -15,39 +15,40 @@ permalink : /about/
 
 - B.S. of Electrical and Electronic Engineering, Yonsei University   
   *1st semester of 4th-year, GPA 4.05/4.3 (Major 4.08/4.3) ([transcript](https://jiho314.github.io/assets/transcript/transcript_4-1(eng).pdf))*  
-  *(Mar. 2019 ~ present)*
+  *(2019 ~ present)*
 
 # Projects
 
-- 4D Head Reconstruction: Leveraging Semantic Information for 4D Gaussian Splatting<br/>*(Nov.2023*) [*github_link*](https://github.com/whwjdqls/4D-Gaussian-Head.git)
+- 4D Head Reconstruction: Leveraging Semantic Information for 4D Gaussian Splatting<br/>*(2023.11*) [*github_link*](https://github.com/whwjdqls/4D-Gaussian-Head.git)
   - 1st Award in 3rd YAICON(연세대학교 학회(동아리)내 대회)
   - Expression 활용 아이디어 제안 및 모델링 담당
 
-- [OOD Detection Research Project] Exploring the Generative Model for OOD Detection, with Hierarchical Self-Conditioned AutoEncoder <br/> *(Jun.2023)* [***report_link***](https://jiho314.github.io/assets/MNIST_OOD_HSCAE.pdf)
-- [Diffusion Model Web Application Project] Sketch&Prompt-to-Image using ControlNet <br/>*(Apr.2023 ~ May.2023) [github_link](https://github.com/devch1013/YAICON-Ditto)*
+- [OOD Detection Research Project] Exploring the Generative Model for OOD Detection, with Hierarchical Self-Conditioned AutoEncoder <br/> *(2023.06)* [***report_link***](https://jiho314.github.io/assets/MNIST_OOD_HSCAE.pdf)
+- [Diffusion Model Web Application Project] Sketch&Prompt-to-Image using ControlNet <br/>*(2023.04 ~ 2023.05) [github_link](https://github.com/devch1013/YAICON-Ditto)*
   - 1st Award in 2nd YAICON(연세대학교 학회(동아리)내 대회)
   - 백엔드 내 ControlNet 적용 담당 
 - Virtual Hand Drawing Simulator (Unity, Python communication project)  
-  *(Nov.2022 ~ Dec.2022) [github link](https://github.com/jiho314/Unity_HandTracking_DeepLearning.git)*
+  *(2022.11 ~ 2022.12) [github link](https://github.com/jiho314/Unity_HandTracking_DeepLearning.git)*
   - Unity Virtual Hand 구현 및 Python 통신 담당 
 
 
 ## 산학 협력 Projects
 
 - Image Editing Service R&D <br/>
-  *in YAI(인공지능 학회), with [Rebuilder AI](https://rebuilderai.com/)*
+  *in YAI(인공지능 학회), with [Rebuilder AI](https://rebuilderai.com/)* <br/>
+  (2023.07 ~ 2023.09)
   - 상품 배경 생성 데이터 전처리, 모델링, 학습 담당
 - 가상 얼굴 유사도 모델링  
    *in DataScienceLab(데이터사이언스 학회), with [MetaSoul](https://www.metasoul.co.kr/), Uaround Co., Ltd*  
-   *(May. 2022 ~ June. 2022)*
+   *(2022.05 ~ 2022.06)*
    - 데이터 전처리 및 실험 담당
 
 - 고등학교 수학 문제풀이 데이터 분석 및 클러스트링   
   *in DataScienceLab, with Mathflat, freewheelin Inc.*   
-  *(Oct.2022 ~ Nov.2022)*
+  *(2022.10 ~ 2022.11)*
 - 온라인 플랫폼 서비스 데이터 예측 및 분석
   *in MIDaS Lab, with JJAANN Co.*  
-  *(Jul. 2022 ~ Aug. 2022)*
+  *(2022.07 ~ 2022.08)*
 
 
 
