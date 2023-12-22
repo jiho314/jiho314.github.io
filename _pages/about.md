@@ -100,7 +100,7 @@ permalink : /about/
 
 - Undergraduate Intern in [MIRLab](https://mirlab.yonsei.ac.kr/) <br/>
   *(Jul. 2022 ~ present)*
-- CSE(Computational Science and Engineering)-URP Yonsei University  
+- CSE(Computational Science and Engineering)-URP Yonsei University in MIDaS Lab  
   *(Jul. 2022 ~ Aug. 2022)*
 
 
