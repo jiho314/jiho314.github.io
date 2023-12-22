@@ -23,7 +23,7 @@ permalink : /about/
   - 1st Award in 3rd YAICON(연세대학교 학회(동아리)내 대회)
   - Expression 활용 아이디어 제안 및 모델링 담당
 
-- [OOD Detection Research Project] Exploring the Generative Model for OOD Detection, with Hierarchical Self-Conditioned AutoEncoder <br/> *(2023.06)* [***report_link***](https://jiho314.github.io/assets/MNIST_OOD_HSCAE.pdf)
+- [OOD Detection Research Project] Exploring the Generative Model for OOD Detection, with Hierarchical Self-Conditioned AutoEncoder <br/> *(2023.06)* [*report_link*](https://jiho314.github.io/assets/MNIST_OOD_HSCAE.pdf)
 - [Diffusion Model Web Application Project] Sketch&Prompt-to-Image using ControlNet <br/>*(2023.04 ~ 2023.05) [github_link](https://github.com/devch1013/YAICON-Ditto)*
   - 1st Award in 2nd YAICON(연세대학교 학회(동아리)내 대회)
   - 백엔드 내 ControlNet 적용 담당 
