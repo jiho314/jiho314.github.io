@@ -46,7 +46,7 @@ permalink : /about/
 - 고등학교 수학 문제풀이 데이터 분석 및 클러스트링   
   *in DataScienceLab, with Mathflat, freewheelin Inc.*   
   *(2022.10 ~ 2022.11)*
-- 온라인 플랫폼 서비스 데이터 예측 및 분석
+- 온라인 플랫폼 서비스 데이터 예측 및 분석<br/>
   *in MIDaS Lab, with JJAANN Co.*  
   *(2022.07 ~ 2022.08)*
 
