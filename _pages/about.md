@@ -19,6 +19,56 @@ permalink : /about/
 
 # Projects
 
+- 4D Head Reconstruction: Leveraging Semantic Information for 4D Gaussian Splatting<br/>*(Nov.2023*) [*github_link*](https://github.com/whwjdqls/4D-Gaussian-Head.git)
+  - 1st Award in 3rd YAICON(연세대학교 학회(동아리)내 대회)
+  - Expression 활용 아이디어 제안 및 모델링 담당
+
+- [OOD Detection Research Project] Exploring the Generative Model for OOD Detection, with Hierarchical Self-Conditioned AutoEncoder <br/> *(Jun.2023)* [***report_link***](https://jiho314.github.io/assets/MNIST_OOD_HSCAE.pdf)
+- [Diffusion Model Web Application Project] Sketch&Prompt-to-Image using ControlNet <br/>*(Apr.2023 ~ May.2023) [github_link](https://github.com/devch1013/YAICON-Ditto)*
+  - 1st Award in 2nd YAICON(연세대학교 학회(동아리)내 대회)
+  - 백엔드 내 ControlNet 적용 담당 
+- Virtual Hand Drawing Simulator (Unity, Python communication project)  
+  *(Nov.2022 ~ Dec.2022) [github link](https://github.com/jiho314/Unity_HandTracking_DeepLearning.git)*
+  - Unity Virtual Hand 구현 및 Python 통신 담당 
+
+
+## 산학 협력 프로젝트
+
+- Image Editing Service R&D <br/>
+  *in YAI(인공지능 학회), with [Rebuilder AI](https://rebuilderai.com/)*
+  - 상품 배경 생성 데이터 전처리, 모델링, 학습 담당
+- 가상 얼굴 유사도 모델링  
+   *in DataScienceLab(데이터사이언스 학회), with [MetaSoul](https://www.metasoul.co.kr/), Uaround Co., Ltd*  
+   *(May. 2022 ~ June. 2022)*
+   - 데이터 전처리 및 실험 담당
+
+- 고등학교 수학 문제풀이 데이터 분석 및 클러스트링   
+  *in DataScienceLab, with Mathflat, freewheelin Inc.*   
+  *(Oct. 2022 ~ Nov. 2022)*
+- 온라인 플랫폼 서비스 데이터 예측 및 분석
+  *in MIDaS Lab, with JJAANN Co.*  
+  *(Jul. 2022 ~ Aug. 2022)*
+
+
+
+# Scholarship
+
+- 연세대학교 <br/>
+  진리 장학금(Honors) <br/>
+  (2022-1, 2022-2) <br/>
+  
+  진리 장학금(High Honors) <br/>
+  (2023-1)
+
+- 한성손재한장학회  <br/>
+  한성 노벨 장학금 Approx. 8000 USD in total (awarded to up to 200 people every year) <br/>(2017-2018)
+
+<!--
+
+
+
+# Projects
+
 - 4D Head Reconstruction: Leveraging Semantic information for 4D Gaussian Splatting<br/>*(Nov.2023*) [github_link](https://github.com/whwjdqls/4D-Gaussian-Head.git)
 - [OOD Detection Research Project] Exploring the generative model for OOD Detection, with Hierarchical Self-Conditioned AutoEncoder <br/> *(Jun.2023)* [***report_link***](https://jiho314.github.io/assets/MNIST_OOD_HSCAE.pdf)
 - [Diffusion Model Web Application Project] Sketch&Prompt-to-Image using ControlNet <br/>*(Apr.2023 ~ May.2023) [github_link](https://github.com/devch1013/YAICON-Ditto)*
@@ -29,8 +79,8 @@ permalink : /about/
 
 ## Industry-academia cooperation projects
 
-- R&D for Image Editing Services <br/>
-   *in YAI(AI club in Yonsei), with [Rebuilder AI](https://rebuilderai.com/)*
+- Image Editing Services R&D<br/>
+  *in YAI(AI club in Yonsei), with [Rebuilder AI](https://rebuilderai.com/)*
   - Background generation for commercial product
   - Saliency-aware product segmentation
 
@@ -64,10 +114,6 @@ permalink : /about/
 
 - Yonsei Veritas(High-academic Performers) Scholarship   
   *(2022-2, 2023-1, 2023-2)*
-
-
-
-<!--
 
 # Studied Paper
 
