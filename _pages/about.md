@@ -58,7 +58,7 @@ permalink : /about/
   Honors: 2022-1, 2022-2 <br/>High Honors: 2023-1
 
 - 한성손재한장학회  <br/>
-  한성 노벨 장학금 Approx. 8000 USD in total (awarded to up to 200 people every year) <br/>(2017-2018)
+  한성 노벨 장학생 선발: Approx. 8000 USD in total (awarded to up to 200 people every year) <br/>(2017-2018)
 
 <!--
 
