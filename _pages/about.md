@@ -41,18 +41,19 @@ permalink : /about/
    *(2022.05 ~ 2022.06)*
    - 데이터 전처리 및 실험 담당
 
-<!--
+# Internship
 
-- 고등학교 수학 문제풀이 데이터 분석 및 클러스트링   
-  *in DataScienceLab, with Mathflat, freewheelin Inc.*   
-  *(2022.10 ~ 2022.11)*
-- 온라인 플랫폼 서비스 데이터 예측 및 분석<br/>
-  *in MIDaS Lab, with JJAANN Co.*  
-  *(2022.07 ~ 2022.08)*
-
--->
+- Undergraduate Intern in [MIRLab](https://mirlab.yonsei.ac.kr/) <br/>
+  *(Jul.2023 ~ present)*
+- CSE(Computational Science and Engineering)-URP Yonsei University in [MIDaS Lab](https://sites.google.com/site/midasyonsei)  
+  *(Jul.2022 ~ Aug. 2022)*
 
 
+
+# Military Service
+
+- Korean Army, Honorable Discharge  
+  *(Sep. 2020 ~ Mar. 2022)*
 
 # Scholarship
 
