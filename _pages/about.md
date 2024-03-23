@@ -51,9 +51,7 @@ permalink : /about/
 
 # Military Service
 
-- Korean Army, Honorable Discharge <br/>
-
-  *(Sep. 2020 ~ Mar. 2022)*
+- Korean Army, Honorable Discharge <br/>*(Sep. 2020 ~ Mar. 2022)*
 
 # Scholarship
 
