@@ -19,49 +19,50 @@ permalink : /about/
 
 # Projects
 
-- 4D Head Reconstruction: Leveraging Semantic Information for 4D Gaussian Splatting<br/>*(2023.11*) [*github_link*](https://github.com/whwjdqls/4D-Gaussian-Head.git)
-  - Expression 활용 아이디어 제안 및 모델링 담당
-  
-- [OOD Detection Research Project] Exploring the Generative Model for OOD Detection, with Hierarchical Self-Conditioned AutoEncoder <br/> *(2023.06)* [*report_link*](https://jiho314.github.io/assets/MNIST_OOD_HSCAE.pdf)
-- [Diffusion Model Web Application Project] Sketch&Prompt-to-Image using ControlNet <br/>*(2023.04 ~ 2023.05) [github_link](https://github.com/devch1013/YAICON-Ditto)*
-  - 백엔드 내 ControlNet 적용 담당 
-- Virtual Hand Drawing Simulator (Unity, Python communication project)  
-  *(2022.11 ~ 2022.12) [github link](https://github.com/jiho314/Unity_HandTracking_DeepLearning.git)*
-  - Unity Virtual Hand 구현 및 Python 통신 담당 
+- 4D Head Reconstruction: Leveraging Semantic Information for *4D Gaussian Splatting*<br/>*(Oct. 2023 ~ Nov. 2023*) [*github_link*](https://github.com/whwjdqls/4D-Gaussian-Head.git)
+- Camera Pose Estimation for Tensor Radiance Fields <br/>
+  (Sep. 2023 ~ Nov. 2023) [report_link](https://jiho314.github.io/assets/nope-tensorf.pdf)
+- [OOD Detection Research Project] Exploring the Generative Model for OOD Detection, with Hierarchical Self-Conditioned AutoEncoder <br/> *(Jun. 2023)* [*report_link*](https://jiho314.github.io/assets/MNIST_OOD_HSCAE.pdf)
+- [Diffusion Model Web Application Project] Sketch&Prompt-to-Image using ControlNet <br/>*(Apr. 2023 ~ May. 2023) [github_link](https://github.com/devch1013/YAICON-Ditto)*
+- Virtual Hand Drawing Simulator (Unity, Python communication project)  <br/>
+  *(Nov. 2022 ~ Dec. 2022) [github link](https://github.com/jiho314/Unity_HandTracking_DeepLearning.git)*
 
+# Experience
 
-## 산학 협력 Projects
+- [Rebuilder AI](https://rebuilderai.com/) | Parttime Research Assistant
+  *with YAI(Yonsei Artificial Intelligence)* <br/>
+  (Jul. 2023 ~ Sep. 2023)
+  - Background image generation for commercial product (built dataset and fine-tuned diffusion model)
+  - Saliency-aware product segmentation 
+- [Uaround](https://www.uaround.ai/) | Parttime Research Assistant 
+   *with DataScienceLab, Yonsei*  
+   *(May. 2022 ~ Jun. 2022)*
+   - Face similarity modeling for virtual human 
 
-- Image Editing Service R&D <br/>
-  *in YAI(인공지능 학회), with [Rebuilder AI](https://rebuilderai.com/)* <br/>
-  (2023.07 ~ 2023.09)
-  - 상품 배경 생성 데이터 전처리, 모델링, 학습 담당
-- 가상 얼굴 유사도 모델링  
-   *in DataScienceLab(데이터사이언스 학회), with [MetaSoul](https://www.metasoul.co.kr/), Uaround Co., Ltd*  
-   *(2022.05 ~ 2022.06)*
-   - 데이터 전처리 및 실험 담당
 
 # Internship
 
 - Undergraduate Intern in [MIRLab](https://mirlab.yonsei.ac.kr/) <br/>
-  *(Jul.2023 ~ present)*
+  *(Aug. 2023 ~ Jan. 2024)*
 - CSE(Computational Science and Engineering)-URP Yonsei University in [MIDaS Lab](https://sites.google.com/site/midasyonsei)  
-  *(Jul.2022 ~ Aug. 2022)*
+  *(Jul. 2022 ~ Aug. 2022)*
 
 
 
 # Military Service
 
-- Korean Army, Honorable Discharge  
+- Korean Army, Honorable Discharge <br/>
+
   *(Sep. 2020 ~ Mar. 2022)*
 
 # Scholarship
 
-- 연세대학교 진리 장학<br/>
-  Honors: 2022-1, 2022-2 <br/>High Honors: 2023-1
+- Yonsei Veritas(High-academic Performers) Scholarship<br/>
+  Honors: 2022-1, 2022-2 <br/>High Honors: 2023-1, 2023-2
 
-- 한성손재한장학회  <br/>
-  한성 노벨 장학생 선발: 10,000,000 KRW (awarded to up to 200 people every year) <br/>(2017-2018)
+- Hanseong Son Jae Han Scholarship Foundation  <br/>
+  Hanseong Nobel scholarship, approx. 10,000 USD in total (awarded to up to 200 people every year) <br/>(*2017-2018*)
+  
 
 <!--
 
