@@ -31,7 +31,7 @@ permalink : /about/
 
 - [Rebuilder AI](https://rebuilderai.com/) | Parttime Research Assistant
   *with YAI(Yonsei Artificial Intelligence)* <br/>
-  (Jul. 2023 ~ Sep. 2023)
+  *(Jul. 2023 ~ Sep. 2023)*
   - Background image generation for commercial product<br/> (built dataset and fine-tuned diffusion model)
   - Saliency-aware product segmentation 
 - [Uaround](https://www.uaround.ai/) | Parttime Research Assistant 
