@@ -2,7 +2,7 @@
 permalink : /about/
 ---
 
-<img style = "float: right;" src = "https://jiho314.github.io/assets/imgs/me2_crop.png" width = "30%" >
+<img style = "float: right;" src = "https://jiho314.github.io/assets/imgs/me.png" width = "35%" >
 
 # Jiho, Park
 
@@ -30,7 +30,7 @@ I am Undergraduate student at Yonsei University,
 
 
 
-# Research Internship
+# Experiences
 
 - Undergraduate Research Intern in [MLCS Lab](https://mlcs.yonsei.ac.kr/index.html) (Machine Learning and Control Systems Lab) (Advisor. [*Jongeun Choi*](https://scholar.google.com/citations?user=Z-UlU3MAAAAJ&hl=en) )<br/> *(Mar.2024 ~ Present)*
   - Building ROS System for Robotic Manipulation (with Kinova-Jaco and three RGBD cameras)
@@ -40,7 +40,7 @@ I am Undergraduate student at Yonsei University,
   - Focused primarily on 3D Vision, encompassing 3D Representation, Generation, and Dynamic 3D Scene Reconstruction <br/>
   - Developed a large-scale 3D Talking Head Dataset to facilitate talking head generation
 
-# Experience
+---
 
 - [Rebuilder AI](https://rebuilderai.com/) | Parttime Research Assistant *with YAI(Yonsei Artificial Intelligence)* <br/>
   *(Jul. 2023 ~ Sep. 2023)*
