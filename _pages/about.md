@@ -2,20 +2,57 @@
 permalink : /about/
 ---
 
-<img style = "float: right;" src = "https://jiho314.github.io/assets/imgs/me.png" width = "30%" >
+<img style = "float: right;" src = "https://jiho314.github.io/assets/imgs/me2.png" width = "30%" >
 
-# About Me
+# Jiho, Park
 
-- Name: **Park, Jiho** <br/>
-  Birth: 2000.03.14 <br/>Email: qkrwlgh0314@yonsei.ac.kr <br/>Github: [jiho314](https://github.com/jiho314)
+I am Undergraduate student at Yonsei University, 
+
+
+
+- Email: qkrwlgh0314@yonsei.ac.kr <br/>Github: [jiho314](https://github.com/jiho314)
+
+
+
+
 
 <br/>
+
+#
+
+
 
 # Education
 
 - B.S. of Electrical and Electronic Engineering, Yonsei University   
   *1st semester of 4th-year, GPA 4.10/4.3 ([transcript](https://jiho314.github.io/assets/transcript/transcript_4-1(kor)(norank).pdf))*  
   *(2019 ~ present)*
+
+
+
+# Research Internship
+
+- Undergraduate Research Intern in [MLCS Lab](https://mlcs.yonsei.ac.kr/index.html) (Machine Learning and Control Systems Lab) (Advisor. [*Jongeun Choi*](https://scholar.google.com/citations?user=Z-UlU3MAAAAJ&hl=en) )<br/> *(Mar.2024 ~ Present)*
+  - Building ROS System for Robotic Manipulation (with Kinova-Jaco and three RGBD cameras)
+  - Currently focusing on Camera Calibration
+- Undergraduate Research Intern in [MIRLab](https://mirlab.yonsei.ac.kr/) (Multimodal AI Research Lab)<br/>
+  *(Aug. 2023 ~ Jan. 2024)*
+  - Focused primarily on 3D Vision, encompassing 3D Representation, Generation, and Dynamic 3D Scene Reconstruction
+  - Built large-scale 3D Talking Head Dataset for talking head generation 
+
+# Experience
+
+- [Rebuilder AI](https://rebuilderai.com/) | Parttime Research Assistant *with YAI(Yonsei Artificial Intelligence)* <br/>
+  *(Jul. 2023 ~ Sep. 2023)*
+  - Background image generation for commercial product<br/> (built dataset and fine-tuned diffusion model)
+  - Saliency-aware product segmentation 
+- Undergraduate Research Intern in [MIDaS Lab](https://sites.google.com/site/midasyonsei) <br/>
+   *(Jul. 2022 ~ Aug. 2022)*
+- [Uaround](https://www.uaround.ai/) | Parttime Research Assistant *with DataScienceLab, Yonsei*  
+   *(May. 2022 ~ Jun. 2022)*
+   - Face similarity modeling for virtual human 
+
+
 
 # Projects
 
@@ -26,28 +63,6 @@ permalink : /about/
 - [Diffusion Model Web Application Project] Sketch&Prompt-to-Image using ControlNet <br/>*(Apr. 2023 ~ May. 2023) [github_link](https://github.com/devch1013/YAICON-Ditto)*
 - Virtual Hand Drawing Simulator (Unity, Python communication project)  <br/>
   *(Nov. 2022 ~ Dec. 2022) [github link](https://github.com/jiho314/Unity_HandTracking_DeepLearning.git)*
-
-# Experience
-
-- [Rebuilder AI](https://rebuilderai.com/) | Parttime Research Assistant
-  *with YAI(Yonsei Artificial Intelligence)* <br/>
-  *(Jul. 2023 ~ Sep. 2023)*
-  - Background image generation for commercial product<br/> (built dataset and fine-tuned diffusion model)
-  - Saliency-aware product segmentation 
-- [Uaround](https://www.uaround.ai/) | Parttime Research Assistant 
-   *with DataScienceLab, Yonsei*  
-   *(May. 2022 ~ Jun. 2022)*
-   - Face similarity modeling for virtual human 
-
-
-# Internship
-
-- Undergraduate Intern in [MIRLab](https://mirlab.yonsei.ac.kr/) <br/>
-  *(Aug. 2023 ~ Jan. 2024)*
-- CSE(Computational Science and Engineering)-URP Yonsei University in [MIDaS Lab](https://sites.google.com/site/midasyonsei)  
-  *(Jul. 2022 ~ Aug. 2022)*
-
-
 
 # Military Service
 
@@ -60,7 +75,14 @@ permalink : /about/
 
 - Hanseong Son Jae Han Scholarship Foundation  <br/>
   Hanseong Nobel scholarship, approx. 10,000 USD in total (awarded to up to 200 people every year) <br/>(*2017-2018*)
-  
+
+## Skills
+
+- **Programming Languages:**  Python, C#(Unity), C++
+
+- **Languages:** Korean(Native), English(Fluent, TOEFL 105)
+
+
 
 <!--
 
