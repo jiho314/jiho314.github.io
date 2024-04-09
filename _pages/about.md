@@ -2,7 +2,7 @@
 permalink : /about/
 ---
 
-<img style = "float: right;" src = "https://jiho314.github.io/assets/imgs/me2.png" width = "30%" >
+<img style = "float: right;" src = "https://jiho314.github.io/assets/imgs/me2_crop.png" width = "30%" >
 
 # Jiho, Park
 
@@ -37,8 +37,8 @@ I am Undergraduate student at Yonsei University,
   - Currently focusing on Camera Calibration
 - Undergraduate Research Intern in [MIRLab](https://mirlab.yonsei.ac.kr/) (Multimodal AI Research Lab)<br/>
   *(Aug. 2023 ~ Jan. 2024)*
-  - Focused primarily on 3D Vision, encompassing 3D Representation, Generation, and Dynamic 3D Scene Reconstruction
-  - Built large-scale 3D Talking Head Dataset for talking head generation 
+  - Focused primarily on 3D Vision, encompassing 3D Representation, Generation, and Dynamic 3D Scene Reconstruction <br/>
+  - Developed a large-scale 3D Talking Head Dataset to facilitate talking head generation
 
 # Experience
 
@@ -46,9 +46,7 @@ I am Undergraduate student at Yonsei University,
   *(Jul. 2023 ~ Sep. 2023)*
   - Background image generation for commercial product<br/> (built dataset and fine-tuned diffusion model)
   - Saliency-aware product segmentation 
-- Undergraduate Research Intern in [MIDaS Lab](https://sites.google.com/site/midasyonsei) <br/>
-   *(Jul. 2022 ~ Aug. 2022)*
-- [Uaround](https://www.uaround.ai/) | Parttime Research Assistant *with DataScienceLab, Yonsei*  
+- [Uaround](https://www.uaround.ai/) | Parttime Research Assistant *with DataScienceLab, Yonsei* <br/>
    *(May. 2022 ~ Jun. 2022)*
    - Face similarity modeling for virtual human 
 
@@ -58,7 +56,7 @@ I am Undergraduate student at Yonsei University,
 
 - 4D Head Reconstruction: Leveraging Semantic Information for *4D Gaussian Splatting*<br/>*(Oct. 2023 ~ Nov. 2023*) [*github_link*](https://github.com/whwjdqls/4D-Gaussian-Head.git)
 - Camera Pose Estimation for Tensor Radiance Fields <br/>
-  (Sep. 2023 ~ Nov. 2023) *[report_link](https://jiho314.github.io/assets/nope-tensorf.pdf)*
+  *(Sep. 2023 ~ Nov. 2023)* *[report_link](https://jiho314.github.io/assets/nope-tensorf.pdf)*
 - [OOD Detection Research Project] Exploring the Generative Model for OOD Detection, with Hierarchical Self-Conditioned AutoEncoder <br/> *(Jun. 2023)* [*report_link*](https://jiho314.github.io/assets/MNIST_OOD_HSCAE.pdf)
 - [Diffusion Model Web Application Project] Sketch&Prompt-to-Image using ControlNet <br/>*(Apr. 2023 ~ May. 2023) [github_link](https://github.com/devch1013/YAICON-Ditto)*
 - Virtual Hand Drawing Simulator (Unity, Python communication project)  <br/>
