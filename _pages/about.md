@@ -29,7 +29,7 @@ I'm also interested in understanding 4D(Dynamic 3D) world.
 # Experiences
 
 - Undergraduate Research Intern in [MLCS Lab](https://mlcs.yonsei.ac.kr/index.html) (Advisor. [*Jongeun Choi*](https://scholar.google.com/citations?user=Z-UlU3MAAAAJ&hl=en) )<br/> *(Mar. 2024 ~ Present)*
-  - **Developing a ROS-based system for robotic manipulation, incorporating the Kinova-Jaco arm, three RGBD cameras, and an AI model** <br/>
+  - Developing a ROS-based system for robotic manipulation, incorporating the Kinova-Jaco arm, three RGBD cameras, and an AI model <br/>
   - Currently focusing on Camera Calibration and Point Cloud Registration
 - Undergraduate Research Intern in [MIRLab](https://mirlab.yonsei.ac.kr/) (Advisor. Youngjae Yu) <br/>
   *(Aug. 2023 ~ Jan. 2024)*
