@@ -6,9 +6,11 @@ permalink : /about/
 
 # Jiho, Park
 
-I am Undergraduate student at Yonsei University, 
+I am a senior Undergraduate student at Yonsei University, dddddddddddddddddddddddddddddasdfasdfasdfasdfadsf adfasd;fioajd;ifoajsdifjadf asd;f jiasdi;ofjadiojf aiad; jfas;iof jasdfa
 
 
+
+[SE(3)-Diffusion](https://jiho314.github.io/assets/presentation/SE(3)-DiffusionFields.pdf), [NeRF for Robotics](https://jiho314.github.io/assets/presentation/NeRF for Robotics.pdf)
 
 
 
@@ -51,7 +53,7 @@ I am Undergraduate student at Yonsei University,
 - 4D Head Reconstruction: Leveraging Semantic Information for *4D Gaussian Splatting*<br/>*(Oct. 2023 ~ Nov. 2023*) [*github_link*](https://github.com/whwjdqls/4D-Gaussian-Head.git)
 - Camera Pose Estimation for Tensor Radiance Fields <br/>
   *(Sep. 2023 ~ Nov. 2023)* *[report_link](https://jiho314.github.io/assets/nope-tensorf.pdf)*
-- [OOD Detection Research Project] Exploring the Generative Model for OOD Detection, with Hierarchical Self-Conditioned AutoEncoder <br/> *(Jun. 2023)* [*report_link*](https://jiho314.github.io/assets/MNIST_OOD_HSCAE.pdf)
+- [OOD Detection Research Project] Exploring the Generative Model for OOD Detection, with Hierarchical Self-Conditioned AutoEncoder <br/> *(Jun. 2023)* [***report_link***](https://jiho314.github.io/assets/MNIST_OOD_HSCAE.pdf)
 - [Diffusion Model Web Application Project] Sketch&Prompt-to-Image using ControlNet <br/>*(Apr. 2023 ~ May. 2023) [github_link](https://github.com/devch1013/YAICON-Ditto)*
 - Virtual Hand Drawing Simulator (Unity, Python communication project)  <br/>
   *(Nov. 2022 ~ Dec. 2022) [github link](https://github.com/jiho314/Unity_HandTracking_DeepLearning.git)*
