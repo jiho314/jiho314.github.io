@@ -20,15 +20,11 @@ I am Undergraduate student at Yonsei University,
 
 # Education
 
----
-
 - B.S. of Electrical and Electronic Engineering, Yonsei University   
   *1st semester of 4th-year, GPA 4.10/4.3 ([transcript](https://jiho314.github.io/assets/transcript/transcript_4-1(kor)(norank).pdf))*  
   *(2019 ~ present)*
 
 # Experiences
-
----
 
 - Undergraduate Research Intern in [MLCS Lab](https://mlcs.yonsei.ac.kr/index.html) (Advisor. [*Jongeun Choi*](https://scholar.google.com/citations?user=Z-UlU3MAAAAJ&hl=en) )<br/> *(Mar.2024 ~ Present)*
   - Developing a ROS-based system for robotic manipulation, incorporating the Kinova-Jaco arm, three RGBD cameras, and an AI model
@@ -39,8 +35,6 @@ I am Undergraduate student at Yonsei University,
   - Developed a large-scale 3D Talking Head Dataset to facilitate talking head generation
 
 # Work Experiences
-
----
 
 - [Rebuilder AI](https://rebuilderai.com/) | Parttime Research Assistant *with YAI(Yonsei Artificial Intelligence)* <br/>
   *(Jul. 2023 ~ Sep. 2023)*
@@ -54,8 +48,6 @@ I am Undergraduate student at Yonsei University,
 
 # Projects
 
----
-
 - 4D Head Reconstruction: Leveraging Semantic Information for *4D Gaussian Splatting*<br/>*(Oct. 2023 ~ Nov. 2023*) [*github_link*](https://github.com/whwjdqls/4D-Gaussian-Head.git)
 - Camera Pose Estimation for Tensor Radiance Fields <br/>
   *(Sep. 2023 ~ Nov. 2023)* *[report_link](https://jiho314.github.io/assets/nope-tensorf.pdf)*
@@ -66,13 +58,9 @@ I am Undergraduate student at Yonsei University,
 
 # Military Service
 
----
-
 - Korean Army, Honorable Discharge <br/>*(Sep. 2020 ~ Mar. 2022)*
 
 # Scholarship
-
----
 
 - Yonsei Veritas(High-academic Performers) Scholarship<br/>
   Honors: 2022-1, 2022-2 <br/>High Honors: 2023-1, 2023-2
@@ -81,8 +69,6 @@ I am Undergraduate student at Yonsei University,
   Hanseong Nobel scholarship, approx. 10,000 USD in total (awarded to up to 200 people every year) <br/>(*2017-2018*)
 
 ## Skills
-
----
 
 - **Programming Languages:**  Python, C#(Unity), C++
 
