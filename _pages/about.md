@@ -23,13 +23,13 @@ I'm also interested in understanding 4D(Dynamic 3D) world.
 # Education
 
 - B.S. of Electrical and Electronic Engineering, Yonsei University   
-  *1st semester of 4th-year, GPA 4.10/4.3 ([transcript](https://jiho314.github.io/assets/transcript/transcript_4-1(kor)(norank).pdf))*  
+  *1st semester of 4th-year, **GPA 4.10/4.3** ([transcript](https://jiho314.github.io/assets/transcript/transcript_4-1(kor)(norank).pdf))*  
   *(Mar. 2019 ~ Present)*
 
 # Experiences
 
 - Undergraduate Research Intern in [MLCS Lab](https://mlcs.yonsei.ac.kr/index.html) (Advisor. [*Jongeun Choi*](https://scholar.google.com/citations?user=Z-UlU3MAAAAJ&hl=en) )<br/> *(Mar. 2024 ~ Present)*
-  - Developing a ROS-based system for robotic manipulation, incorporating the Kinova-Jaco arm, three RGBD cameras, and an AI model
+  - **Developing a ROS-based system for robotic manipulation, incorporating the Kinova-Jaco arm, three RGBD cameras, and an AI model**
   - Currently focusing on Camera Calibration
 - Undergraduate Research Intern in [MIRLab](https://mirlab.yonsei.ac.kr/) (Advisor. Youngjae Yu) <br/>
   *(Aug. 2023 ~ Jan. 2024)*
