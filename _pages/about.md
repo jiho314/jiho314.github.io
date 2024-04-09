@@ -8,7 +8,7 @@ permalink : /about/
 
 I am a senior Undergraduate student at Yonsei University,
 
-I'm also interested in understanding 4D(Dynamic 3D) world.
+<!-- I'm also interested in understanding 4D(Dynamic 3D) world. -->
 
 [SE(3)-Diffusion](https://jiho314.github.io/assets/presentation/SE(3)-DiffusionFields.pdf), [NeRF for Robotics](https://jiho314.github.io/assets/presentation/NeRF for Robotics.pdf)
 
