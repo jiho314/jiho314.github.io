@@ -23,7 +23,7 @@ I'm also interested in understanding 4D(Dynamic 3D) world.
 # Education
 
 - B.S. of Electrical and Electronic Engineering, Yonsei University   
-  *1st semester of 4th-year, **GPA 4.10/4.3** ([transcript](https://jiho314.github.io/assets/transcript/transcript_4-1(kor)(norank).pdf))*  
+  *1st semester of 4th-year, GPA 4.10/4.3 ([transcript](https://jiho314.github.io/assets/transcript/transcript_4-1(kor)(norank).pdf))*  
   *(Mar. 2019 ~ Present)*
 
 # Experiences
