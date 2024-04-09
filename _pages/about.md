@@ -10,15 +10,11 @@ I am Undergraduate student at Yonsei University,
 
 
 
-- Email: qkrwlgh0314@yonsei.ac.kr <br/>Github: [jiho314](https://github.com/jiho314)
-
-
-
 
 
 <br/>
 
-#
+
 
 
 
@@ -28,19 +24,17 @@ I am Undergraduate student at Yonsei University,
   *1st semester of 4th-year, GPA 4.10/4.3 ([transcript](https://jiho314.github.io/assets/transcript/transcript_4-1(kor)(norank).pdf))*  
   *(2019 ~ present)*
 
-
-
 # Experiences
 
-- Undergraduate Research Intern in [MLCS Lab](https://mlcs.yonsei.ac.kr/index.html) (Machine Learning and Control Systems Lab) (Advisor. [*Jongeun Choi*](https://scholar.google.com/citations?user=Z-UlU3MAAAAJ&hl=en) )<br/> *(Mar.2024 ~ Present)*
+- Undergraduate Research Intern in [MLCS Lab](https://mlcs.yonsei.ac.kr/index.html) (Advisor. [*Jongeun Choi*](https://scholar.google.com/citations?user=Z-UlU3MAAAAJ&hl=en) )<br/> *(Mar.2024 ~ Present)*
   - Building ROS System for Robotic Manipulation (with Kinova-Jaco and three RGBD cameras)
   - Currently focusing on Camera Calibration
-- Undergraduate Research Intern in [MIRLab](https://mirlab.yonsei.ac.kr/) (Multimodal AI Research Lab)<br/>
+- Undergraduate Research Intern in [MIRLab](https://mirlab.yonsei.ac.kr/) (Advisor. Youngjae Yu) <br/>
   *(Aug. 2023 ~ Jan. 2024)*
-  - Focused primarily on 3D Vision, encompassing 3D Representation, Generation, and Dynamic 3D Scene Reconstruction <br/>
+  - Focused primarily on 3D Vision, encompassing 3D Representations, Static & Dynamic 3D Scene Reconstruction <br/>
   - Developed a large-scale 3D Talking Head Dataset to facilitate talking head generation
 
----
+# Work Experiences
 
 - [Rebuilder AI](https://rebuilderai.com/) | Parttime Research Assistant *with YAI(Yonsei Artificial Intelligence)* <br/>
   *(Jul. 2023 ~ Sep. 2023)*
