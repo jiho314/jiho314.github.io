@@ -8,9 +8,27 @@ permalink : /about/
 
 Hi, I am a senior Undergraduate student majoring in Electrical & Electronic Engineering at Yonsei University, Republic of Korea. I am broadly interested in 3D Vision and scalable Robot Learning. <br/>
 
-Previously, my research interest was focused on the perception of the 4D (Dynamic 3D) world. Recently, my interests have evolved to encompass the development of meaningful decisions and actions derived from this perception, leading me toward the field of Robot Learning. Consequently, I am now refining research area within Robot Learning, aiming to integrate perception with actionable insights<br/>
+Previously, I was intrigued by the perception of 4D(dynamic 3D) world. Now, I'm deeply interested by how we can use this understanding to make informed decisions and take meaningful actions. Consequently, I am now refining research area within Robot Learning, aiming to integrate perception with actionable insights.
 
-Below is the presentation material on robot learning that I have recently used <br/>[SE(3)-Diffusion](https://jiho314.github.io/assets/presentation/SE(3)-DiffusionFields.pdf), [NeRF for Robotics](https://jiho314.github.io/assets/presentation/NeRF for Robotics.pdf)
+Below are the presentation materials related to robot learning that I've recently used. <br/>[SE(3)-Diffusion](https://jiho314.github.io/assets/presentation/SE(3)-DiffusionFields.pdf), [NeRF for Robotics](https://jiho314.github.io/assets/presentation/NeRF for Robotics.pdf)
+
+<!--
+
+Recently, my interests have evolved to encompass the development of meaningful decisions and actions derived from this perception, leading me toward the field of Robot Learning. Consequently, I am now refining research area within Robot Learning, aiming to integrate perception with actionable insights<br/>
+
+Now, I'm intrigued by how we can use this understanding to make informed decisions and take meaningful actions, guiding me into the realm of Robot Learning. As a result, I'm currently fine-tuning my research within Robot Learning, aiming to merge the concepts of perception with actionable insights
+
+
+
+
+
+Before, I was really into exploring how we perceive the dynamic 3D world, that fascinating 4D space. Lately, though, I've gotten excited about going a step further—not just perceiving the world, but making smart decisions and taking actions based on what we see. This curiosity has steered me towards Robot Learning. So, I'm currently zeroing in on this cool intersection, trying to blend perception with practical, impactful actions.
+
+Previously, I was deeply interested in understanding the perception of the dynamic 3D, or 4D, world. 
+
+Now, I'm intrigued by how we can use this understanding to make informed decisions and take meaningful actions, guiding me into the realm of Robot Learning. As a result, I'm currently fine-tuning my research within Robot Learning, aiming to merge the concepts of perception with actionable insights.
+
+Below are the presentation materials related to robot learning that I've recently used <br/>[SE(3)-Diffusion](https://jiho314.github.io/assets/presentation/SE(3)-DiffusionFields.pdf), [NeRF for Robotics](https://jiho314.github.io/assets/presentation/NeRF for Robotics.pdf)
 
 <!--
 
@@ -43,7 +61,7 @@ I was previously interested in the perception of 4D(Dynamic 3D) world and now my
 - Undergraduate Research Intern in [MLCS Lab](https://mlcs.yonsei.ac.kr/index.html) (ML & Control Lab) (Advisor. [*Jongeun Choi*](https://scholar.google.com/citations?user=Z-UlU3MAAAAJ&hl=en) )<br/> *(Mar. 2024 ~ Present)*
   - Developing a ROS-based system for robotic manipulation, incorporating the Kinova-Jaco arm, three RGBD cameras, and an AI model <br/>
   - Currently focusing on Camera Calibration and Point Cloud Registration
-- Undergraduate Research Intern in [MIRLab](https://mirlab.yonsei.ac.kr/) (Multimodal AI Lab)(Advisor. Youngjae Yu) <br/>
+- Undergraduate Research Intern in [MIRLab](https://mirlab.yonsei.ac.kr/) (Multimodal AI Lab) (Advisor. Youngjae Yu) <br/>
   *(Aug. 2023 ~ Jan. 2024)*
   - Studied extensively in the field of 3D Vision, covering 3D Representations, Static & Dynamic 3D Scene Reconstruction
   - Developed a large-scale 3D Talking Head Dataset to facilitate talking head generation
