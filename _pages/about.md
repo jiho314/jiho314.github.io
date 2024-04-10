@@ -2,9 +2,19 @@
 permalink : /about/
 ---
 
-<img style = "float: right;" src = "https://jiho314.github.io/assets/imgs/me.png" width = "30%" >
+
+
+
+
+<!-- style = "float: right;"/ -->
+
+
 
 # Jiho, Park
+
+<img style="text-align:left;" src = "https://jiho314.github.io/assets/imgs/me.png" width = "30%" >
+
+
 
 Hello! I'm a senior undergraduate student majoring in Electrical & Electronic Engineering at Yonsei University, South Korea. My main interests lie in Deep Learning, particularly in 3D Vision and scalable Robot Learning. <br/>
 
