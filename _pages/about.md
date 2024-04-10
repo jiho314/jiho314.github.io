@@ -6,7 +6,7 @@ permalink : /about/
 
 # Jiho, Park
 
-Hi, I am a senior Undergraduate student majoring in Electrical & Electronic Engineering at Yonsei University, Republic of Korea. I am broadly interested in 3D Vision and scalable Robot Learning. <br/>
+Hello! I'm a senior undergraduate student majoring in Electrical & Electronic Engineering at Yonsei University, South Korea. My main interests lie in Deep Learning, particularly in 3D Vision and scalable Robot Learning. <br/>
 
 Previously, I was intrigued by the perception of 4D(dynamic 3D) world. Now, I'm deeply interested by how we can use this understanding to make informed decisions and take meaningful actions. Consequently, I am now refining research area within Robot Learning, aiming to integrate perception with actionable insights.
 
