@@ -8,6 +8,7 @@ html {
   /* apply a natural box layout model to all elements */
   box-sizing: border-box;
   background-color: $background-color;
+  // 16, 18, 18, 18
   font-size: 16px;                        // default 16px
 
   @include breakpoint($medium) {
@@ -22,7 +23,7 @@ html {
     font-size: 18px;                      // default 22px -> 16
   }
 
-  -webkit-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 70%; // 100
   -ms-text-size-adjust: 100%;
 }
 
