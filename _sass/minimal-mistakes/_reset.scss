@@ -12,11 +12,11 @@ html {
   font-size: 10px;                        // default 16px: doesn't matter with my about
 
   @include breakpoint($medium) {
-    font-size: 14px;                      // default 18px ->16
+    font-size: 14px;                      // default 18px ->16 // this also no matter
   }
 
   @include breakpoint($large) {
-    font-size: 16px;                      // default 20px ->16
+    font-size: 16px;                      // default 20px ->16 //
   }
 
   @include breakpoint($x-large) {
