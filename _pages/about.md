@@ -28,9 +28,7 @@ Previously, I was deeply interested in understanding the perception of the dynam
 
 Now, I'm intrigued by how we can use this understanding to make informed decisions and take meaningful actions, guiding me into the realm of Robot Learning. As a result, I'm currently fine-tuning my research within Robot Learning, aiming to merge the concepts of perception with actionable insights.
 
-Below are the presentation materials related to robot learning that I've recently used <br/>[SE(3)-Diffusion](https://jiho314.github.io/assets/presentation/SE(3)-DiffusionFields.pdf), [NeRF for Robotics](https://jiho314.github.io/assets/presentation/NeRF for Robotics.pdf)
 
-<!--
 
 However, I have since broadened my interests to include not only perception but also the generation of meaningful decision/actions through Robot Learning. As a result, I am currently refining my research focus within the field of Robot Learning.
 
