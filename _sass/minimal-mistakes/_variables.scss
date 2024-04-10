@@ -159,7 +159,7 @@ $max-width: $x-large !default;
 // $right-sidebar-width: 200px !default;        //300
 // $right-sidebar-width-wide: 250px !default;   //400 -> 250 -> 300
 // page마다 narrow, ?, wide class 정해져있음...! mine is narrow! narrow 만 조작하면 댐-> 본문 간
-$right-sidebar-width-narrow: 100px !default; //200  // sidebar 간격인가...?
+$right-sidebar-width-narrow: 50px !default; //200  // sidebar 간격인가...?
 $right-sidebar-width: 300px !default;        //300  // left bar width "narrow" - "width" = sidebar, 본문 사이 간격? 
 $right-sidebar-width-wide: 400px !default;   //400 -> 250 -> 300 // 전체 간격?  'width' - 'width-wid' = sidebar ?? no effect even change
 
