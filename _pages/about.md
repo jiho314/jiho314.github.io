@@ -2,17 +2,27 @@
 permalink : /about/
 ---
 
-<img style = "float: right;" src = "https://jiho314.github.io/assets/imgs/me.png" width = "35%" >
+<img style = "float: right;" src = "https://jiho314.github.io/assets/imgs/me.png" width = "30%" >
 
 # Jiho, Park
 
-I am a senior Undergraduate student at Yonsei University,
+Hi, I am a senior Undergraduate student majoring in Electrical & Electronic Engineering at Yonsei University, Republic of Korea. I am broadly interested in 3D Vision and scalable Robot Learning. <br/>
 
-<!-- I'm also interested in understanding 4D(Dynamic 3D) world. -->
+Previously, my research interest was focused on the perception of the 4D (Dynamic 3D) world. Recently, my interests have evolved to encompass the development of meaningful decisions and actions derived from this perception, leading me toward the field of Robot Learning. Consequently, I am now refining research area within Robot Learning, aiming to integrate perception with actionable insights<br/>
 
-[SE(3)-Diffusion](https://jiho314.github.io/assets/presentation/SE(3)-DiffusionFields.pdf), [NeRF for Robotics](https://jiho314.github.io/assets/presentation/NeRF for Robotics.pdf)
+Below is the presentation material on robot learning that I have recently used <br/>[SE(3)-Diffusion](https://jiho314.github.io/assets/presentation/SE(3)-DiffusionFields.pdf), [NeRF for Robotics](https://jiho314.github.io/assets/presentation/NeRF for Robotics.pdf)
+
+<!--
+
+However, I have since broadened my interests to include not only perception but also the generation of meaningful decision/actions through Robot Learning. As a result, I am currently refining my research focus within the field of Robot Learning.
 
 
+
+Initially, my fascination lay with the perception of the 4D (Dynamic 3D) world. Recently, however, my interests have evolved to encompass the development of meaningful decisions and actions derived from this perception, leading me toward the field of Robot Learning. Consequently, I am now honing my research area within Robot Learning, aiming to integrate perception with actionable insights
+
+I was previously interested in the perception of 4D(Dynamic 3D) world and now my research interest covering decision making and action not only perception. Therefore, now I'm narrowing down my research area among Robot Learning.
+
+-->
 
 <br/>
 
@@ -25,15 +35,17 @@ I am a senior Undergraduate student at Yonsei University,
 - B.S. of Electrical and Electronic Engineering, Yonsei University   
   *1st semester of 4th-year, GPA 4.10/4.3 ([transcript](https://jiho314.github.io/assets/transcript/transcript_4-1(kor)(norank).pdf))*  
   *(Mar. 2019 ~ Present)*
+  - 1.5 years of absence due to military service
+  
 
 # Experiences
 
-- Undergraduate Research Intern in [MLCS Lab](https://mlcs.yonsei.ac.kr/index.html) (Advisor. [*Jongeun Choi*](https://scholar.google.com/citations?user=Z-UlU3MAAAAJ&hl=en) )<br/> *(Mar. 2024 ~ Present)*
+- Undergraduate Research Intern in [MLCS Lab](https://mlcs.yonsei.ac.kr/index.html) (ML & Control Lab) (Advisor. [*Jongeun Choi*](https://scholar.google.com/citations?user=Z-UlU3MAAAAJ&hl=en) )<br/> *(Mar. 2024 ~ Present)*
   - Developing a ROS-based system for robotic manipulation, incorporating the Kinova-Jaco arm, three RGBD cameras, and an AI model <br/>
   - Currently focusing on Camera Calibration and Point Cloud Registration
-- Undergraduate Research Intern in [MIRLab](https://mirlab.yonsei.ac.kr/) (Advisor. Youngjae Yu) <br/>
+- Undergraduate Research Intern in [MIRLab](https://mirlab.yonsei.ac.kr/) (Multimodal AI Lab)(Advisor. Youngjae Yu) <br/>
   *(Aug. 2023 ~ Jan. 2024)*
-  - Focused primarily on 3D Vision, encompassing 3D Representations, Static & Dynamic 3D Scene Reconstruction <br/>
+  - Studied extensively in the field of 3D Vision, covering 3D Representations, Static & Dynamic 3D Scene Reconstruction
   - Developed a large-scale 3D Talking Head Dataset to facilitate talking head generation
 
 # Work Experiences
