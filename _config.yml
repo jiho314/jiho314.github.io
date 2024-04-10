@@ -105,13 +105,13 @@ analytics:
 # Site Author
 author:
   name             : 
-  avatar           : "/assets/imgs/me.png"
-  bio              : "Studying AI"
+  avatar           : # "/assets/imgs/me.png"
+  bio              : # "Studying AI"
   # location         : "Somewhere"
   # qkrwlgh0314@yonsei.ac.kr            : "qkrwlgh0314@yonsei.ac.kr"
   
   links:
-    - label: "qkrwlgh0314@yonsei.ac.kr"
+    - label: "email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:qkrwlgh0314@yonsei.ac.kr"  # "mailto:your.name@email.com"  
     - label: "GitHub"
