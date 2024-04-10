@@ -18,7 +18,7 @@ Hi! I'm a senior undergraduate student majoring in Electrical & Electronic Engin
 
 Previously, I was intrigued by the perception of 4D(dynamic 3D) world. Now, I'm deeply interested by how we can use this understanding to make informed decisions and take meaningful actions. Consequently, I am now refining research area within Robot Learning, aiming to integrate perception with actionable insights.<br/>
 
-Below are the presentation materials related to robot learning that I've recently used. <br/>[SE(3)-Diffusion](https://jiho314.github.io/assets/presentation/SE(3)-DiffusionFields.pdf), [NeRF for Robotics](https://jiho314.github.io/assets/presentation/NeRF for Robotics.pdf)<br/>7
+Below are the presentation materials related to robot learning that I've recently used. <br/>[SE(3)-Diffusion](https://jiho314.github.io/assets/presentation/SE(3)-DiffusionFields.pdf), [NeRF for Robotics](https://jiho314.github.io/assets/presentation/NeRF for Robotics.pdf)<br/>8
 
 <!--
 
