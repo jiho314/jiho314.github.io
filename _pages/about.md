@@ -21,9 +21,11 @@ permalink : /about/
 
 Hi! I'm a senior undergraduate student majoring in Electrical & Electronic Engineering at Yonsei University, South Korea. My main research interests lie in Deep Learning, particularly in 3D Vision and scalable Robot Learning. <br/>
 
-Previously, I was intrigued by the perception of 4D(dynamic 3D) world. Now, I'm deeply interested by how we can use this understanding to make informed decisions and take meaningful actions. Consequently, I am now refining research area within Robot Learning, aiming to integrate perception with actionable insights.<br/>
+Previously, I was intrigued by the perception of 4D(dynamic 3D) world. Now, I'm deeply interested by how we can use this understanding to make informed decisions and take meaningful actions. Consequently, I am now refining research area within Robot Learning, aiming to integrate perception with actionable insights.<br/>(These are the presentation materials related to robot learning that I've recently used. [SE(3)-Diffusion](https://jiho314.github.io/assets/presentation/SE(3)-DiffusionFields.pdf), [NeRF for Robotics](https://jiho314.github.io/assets/presentation/NeRF for Robotics.pdf)<br/>)<br/>
 
-Below are the presentation materials related to robot learning that I've recently used. <br/>[SE(3)-Diffusion](https://jiho314.github.io/assets/presentation/SE(3)-DiffusionFields.pdf), [NeRF for Robotics](https://jiho314.github.io/assets/presentation/NeRF for Robotics.pdf)<br/>sidebar 100 200 200
+Additionally, I'm excited to join UT Austin as an exchange student in Fall 2024.
+
+
 
 <!--
 
