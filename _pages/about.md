@@ -23,7 +23,8 @@ Hi! I'm a senior undergraduate student majoring in Electrical & Electronic Engin
 
 Previously, my intrigue was centered on the research field exploring the understanding of the 4D (dynamic 3D) world. Now, I'm deeply interested in how we can use this perception to make informed decisions and take meaningful actions. Consequently, I am currently refining my research area within Robot Learning, aiming to integrate perception with actionable insights.<br/>(These are the presentation materials related to robot learning that I've recently used. [SE(3)-Diffusion](https://jiho314.github.io/assets/presentation/SE(3)-DiffusionFields.pdf), [NeRF for Robotics](https://jiho314.github.io/assets/presentation/NeRF for Robotics.pdf))<br/>
 
-Additionally, I'm excited to join UT Austin as an exchange student in Fall 2024.
+Additionally, I'm excited to join UT Austin as an exchange student in Fall 2024!<br/>
+(funded by Korea Institute for Advancement of Technology)
 
 
 
@@ -65,8 +66,9 @@ I was previously interested in the perception of 4D(Dynamic 3D) world and now my
 
 - B.S. of Electrical and Electronic Engineering, Yonsei University   
   *1st semester of 4th-year, GPA 4.10/4.3 ([transcript](https://jiho314.github.io/assets/transcript/transcript_JIHO PARK.pdf))*  
-  *(Mar. 2019 ~ Present)*
+  *(Mar. 2019 ~  Present)*
   - 1.5 years of absence due to military service
+  - Selected Courses: Computer Vision(Diffusion Models, Camera System)(A+), Deep Learning Lab(A+), LinearAlgbera for EEE(A+), Mathematics for EEE(Convex Optimization)(A+)  
   
 
 # Experiences
@@ -103,21 +105,57 @@ I was previously interested in the perception of 4D(Dynamic 3D) world and now my
 
 # Military Service
 
-- Korean Army, Honorable Discharge <br/>*(Sep. 2020 ~ Mar. 2022)*
+- Korean Army, Honorable Discharge <br/>
+
+  Heavy Vehicle Driver, Commander Driver<br/>
+  *(Sep. 2020 ~ Mar. 2022)*
 
 # Scholarship
 
+- Korea Institute for Advancement of Technology(KIAT)<br/>
+  Korea-U.S. Youth Exchange Support Program in Advanced Fields, approx. 9000 USD for single semester<br/>*(Fall 2024)*
 - Yonsei Veritas(High-academic Performers) Scholarship<br/>
-  Honors: 2022-1, 2022-2 <br/>High Honors: 2023-1, 2023-2
-
+  Honors: Spring 2022, Fall 2022<br/>High Honors: Spring 2023, Fall 2023 
 - Hanseong Son Jae Han Scholarship Foundation  <br/>
   Hanseong Nobel scholarship, approx. 10,000 USD in total (awarded to up to 200 people every year) <br/>(*2017-2018*)
 
 ## Skills
 
-- **Programming Languages:**  Python, C#(Unity), Verilog, C++
+- **Programming Languages:**  Python, C#(Unity), C++, Verilog
 
 - **Languages:** Korean(Native), English(Fluent, TOEFL 105)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
