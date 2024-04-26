@@ -24,7 +24,7 @@ Hi! I'm a senior undergraduate student majoring in Electrical & Electronic Engin
 Previously, my intrigue was centered on the research field exploring the understanding of the 4D (dynamic 3D) world. Now, I'm deeply interested in how we can use this perception to make informed decisions and take meaningful actions. Consequently, I am currently refining my research area within Robot Learning, aiming to integrate perception with actionable insights.<br/>(These are the presentation materials related to robot learning that I've recently used. [SE(3)-Diffusion](https://jiho314.github.io/assets/presentation/SE(3)-DiffusionFields.pdf), [NeRF for Robotics](https://jiho314.github.io/assets/presentation/NeRF for Robotics.pdf))<br/>
 
 Additionally, I'm excited to join UT Austin as an exchange student in Fall 2024!<br/>
-(funded by Korea Institute for Advancement of Technology)
+(funded by the Korea-U.S. Advanced Technology Youth Exchange Scholarship)
 
 
 
@@ -112,12 +112,12 @@ I was previously interested in the perception of 4D(Dynamic 3D) world and now my
 
 # Scholarship
 
-- Korea Institute for Advancement of Technology(KIAT)<br/>
-  Korea-U.S. Youth Exchange Support Program in Advanced Fields, approx. 9000 USD for single semester<br/>*(Fall 2024)*
+- Korea-U.S. Advanced Technology Youth Exchange Scholarship<br/>by Korea Institute for Advancement of Technology(KIAT) <br/>
+  approx. 9000 USD for single semester<br/>*(Fall 2024)*
 - Yonsei Veritas(High-academic Performers) Scholarship<br/>
   Honors: Spring 2022, Fall 2022<br/>High Honors: Spring 2023, Fall 2023 
-- Hanseong Son Jae Han Scholarship Foundation  <br/>
-  Hanseong Nobel scholarship, approx. 10,000 USD in total (awarded to up to 200 people every year) <br/>(*2017-2018*)
+- Hanseong Son Jae Han Nobel Scholarship <br/>
+  approx. 10,000 USD in total (awarded to up to 200 people every year) <br/>(*2017-2018*)
 
 ## Skills
 
