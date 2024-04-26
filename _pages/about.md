@@ -103,13 +103,6 @@ I was previously interested in the perception of 4D(Dynamic 3D) world and now my
 - Virtual Hand Drawing Simulator (Unity, Python communication project)  <br/>
   *(Nov. 2022 ~ Dec. 2022) [github link](https://github.com/jiho314/Unity_HandTracking_DeepLearning.git)*
 
-# Military Service
-
-- Korean Army, Honorable Discharge <br/>
-
-  Heavy Vehicle Driver, Commander Driver<br/>
-  *(Sep. 2020 ~ Mar. 2022)*
-
 # Scholarship
 
 - Korea-U.S. Advanced Technology Youth Exchange Scholarship<br/>by Korea Institute for Advancement of Technology(KIAT) <br/>
@@ -118,7 +111,12 @@ I was previously interested in the perception of 4D(Dynamic 3D) world and now my
   Honors: Spring 2022, Fall 2022<br/>High Honors: Spring 2023, Fall 2023 
   - Hanseong Son Jae Han Nobel Scholarship <br/>
     approx. 10,000 USD in total (awarded to up to 200 people every year) <br/>(*2017-2018*)
-  
+
+
+# Military Service
+
+- Korean Army, Honorable Discharge <br/>Heavy Vehicle Driver, Commander Driver<br/>
+  *(Sep. 2020 ~ Mar. 2022)*
 
 ## Skills
 
