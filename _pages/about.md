@@ -54,6 +54,10 @@ Initially, my fascination lay with the perception of the 4D (Dynamic 3D) world. 
 
 I was previously interested in the perception of 4D(Dynamic 3D) world and now my research interest covering decision making and action not only perception. Therefore, now I'm narrowing down my research area among Robot Learning.
 
+
+
+Selected Courses: Computer Vision(Diffusion Models, Camera System)(A+), Deep Learning Lab(A+), LinearAlgbera for EEE(A+), Mathematics for EEE(Convex Optimization)(A+)  
+
 -->
 
 <br/>
@@ -68,7 +72,6 @@ I was previously interested in the perception of 4D(Dynamic 3D) world and now my
   *1st semester of 4th-year, GPA 4.10/4.3 ([transcript](https://jiho314.github.io/assets/transcript/transcript_JIHO PARK.pdf))*  
   *(Mar. 2019 ~  Present)*
   - 1.5 years of absence due to military service
-  - Selected Courses: Computer Vision(Diffusion Models, Camera System)(A+), Deep Learning Lab(A+), LinearAlgbera for EEE(A+), Mathematics for EEE(Convex Optimization)(A+)  
   
 
 # Experiences
