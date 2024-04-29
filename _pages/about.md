@@ -76,10 +76,10 @@ Selected Courses: Computer Vision(Diffusion Models, Camera System)(A+), Deep Lea
 
 # Experiences
 
-- Undergraduate Research Intern in [MLCS Lab](https://mlcs.yonsei.ac.kr/index.html) (ML & Control Lab) (Advisor. [*Jongeun Choi*](https://scholar.google.com/citations?user=Z-UlU3MAAAAJ&hl=en) )<br/> *(Mar. 2024 ~ Present)*
+- Undergraduate Research Intern in [MLCS Lab](https://mlcs.yonsei.ac.kr/index.html) (ML & Control Lab) (Advisor. [*Jongeun Choi*](https://scholar.google.com/citations?user=Z-UlU3MAAAAJ&hl=en) )<br/> *(Apr. 2024 ~ Present)*
   - Developing a ROS-based system for robotic manipulation, incorporating the Kinova-Jaco arm, three RGBD cameras, and an AI model <br/>
   - Researching Hierarchical Planning, Vector Quantized Policy Learning
-- Undergraduate Research Intern in [MIRLab](https://mirlab.yonsei.ac.kr/) (Multimodal AI Lab) (Advisor. Youngjae Yu) <br/>
+- Undergraduate Research Intern in [MIRLab]() (Multimodal AI Lab) <br/>
   *(Aug. 2023 ~ Jan. 2024)*
   - Studied extensively in the field of 3D Vision, covering 3D Representations, Static & Dynamic 3D Scene Reconstruction
   - Developed a large-scale 3D Talking Head Dataset to facilitate talking head generation
