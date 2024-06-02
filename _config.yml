@@ -112,7 +112,7 @@ author:
   
   links:
     - label: "CV"
-      icon: "fa-solid fa-download"
+      icon: "fas fa-fw fa-link"
       url: "https://jiho314.github.io/assets/cv.pdf"
     - label: "email"
       icon: "fas fa-fw fa-envelope-square"
