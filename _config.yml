@@ -111,6 +111,9 @@ author:
   # qkrwlgh0314@yonsei.ac.kr            : "qkrwlgh0314@yonsei.ac.kr"
   
   links:
+    - label: "CV"
+      icon: "fa-solid fa-download"
+      url: "https://jiho314.github.io/assets/cv.pdf"
     - label: "email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:qkrwlgh0314@yonsei.ac.kr"  # "mailto:your.name@email.com"  

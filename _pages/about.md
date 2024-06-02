@@ -19,14 +19,12 @@ permalink : /about/
 
 <img style="float: right;" src = "https://jiho314.github.io/assets/imgs/me.png" width = "30%" >
 
-Hi! I'm a senior undergraduate student majoring in Electrical & Electronic Engineering at Yonsei University, South Korea. My main research interests lie in Deep Learning, particularly in 3D Vision and scalable Robot Learning. <br/>
+Hi! I'm a senior undergraduate student majoring in Electrical & Electronic Engineering at Yonsei University, South Korea.  <br/>
 
-Previously, my intrigue was centered on the research field exploring the understanding of the 4D (dynamic 3D) world. Now, I'm deeply interested in how we can use this perception to make informed decisions and take meaningful actions. Consequently, I am currently refining my research area within Robot Learning, aiming to integrate perception with actionable insights.<br/>
+Previously, my intrigue was centered on the research field exploring the understanding of the 4D (dynamic 3D) world. Now, I'm deeply interested in how we can use this perception to make informed decisions and take meaningful actions. Consequently, I am refining my research area within Robot Learning, aiming to integrate perception with actionable insights.<br/>
 
 Additionally, I'm excited to join UT Austin as an exchange student in Fall 2024!<br/>
 (funded by the Korea-U.S. Advanced Technology Youth Exchange Scholarship)<br/>
-
-[**CV**](https://jiho314.github.io/assets/cv.pdf) |[**Email**](qkrwlgh0314@yonsei.ac.kr) | [**Github**](https://github.com/jiho314) <br/>
 
 <!--
 
