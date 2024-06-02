@@ -19,7 +19,7 @@ permalink : /about/
 
 <img style="float: right;" src = "https://jiho314.github.io/assets/imgs/me.png" width = "30%" >
 
-Hi! I'm a senior undergraduate student majoring in Electrical & Electronic Engineering at Yonsei University, South Korea.  <br/>
+Hi! I'm a senior undergraduate student majoring in Electrical & Electronic Engineering at Yonsei University, South Korea.  <br/>Currently, I am conducting research on the topic of Coarse-to-fine Behavior Cloning with Action Sequence Quantization in [MLCSLab](https://mlcs.yonsei.ac.kr/). <br/>
 
 Previously, my intrigue was centered on the research field exploring the understanding of the 4D (dynamic 3D) world. Now, I'm deeply interested in how we can use this perception to make informed decisions and take meaningful actions. Consequently, I am refining my research area within Robot Learning, aiming to integrate perception with actionable insights.<br/>
 
