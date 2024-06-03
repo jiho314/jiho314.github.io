@@ -60,7 +60,7 @@ Selected Courses: Computer Vision(Diffusion Models, Camera System)(A+), Deep Lea
 
 <br/>
 
-
+Please refer to my recent [cv](https://jiho314.github.io/assets/cv.pdf) for more details!
 
 
 
@@ -72,11 +72,10 @@ Selected Courses: Computer Vision(Diffusion Models, Camera System)(A+), Deep Lea
   - 1.5 years of absence due to military service
   
 
-# Experiences
+# Research Experiences
 
 - Undergraduate Research Intern in [MLCS Lab](https://mlcs.yonsei.ac.kr/index.html) (ML & Control Lab) (Advisor. [*Jongeun Choi*](https://scholar.google.com/citations?user=Z-UlU3MAAAAJ&hl=en) )<br/> *(Apr. 2024 ~ Present)*
-  - Developing a ROS-based system for robotic manipulation, incorporating the Kinova-Jaco arm, three RGBD cameras, and an AI model <br/>
-  - Researching Hierarchical Planning, Vector Quantized Policy Learning
+  - Developed a ROS-based system for robotic manipulation, incorporating the Kinova-Jaco arm, three RGBD cameras, and an AI model <br/>
 - Undergraduate Research Intern in [MIRLab]() (Multimodal AI Lab) <br/>
   *(Aug. 2023 ~ Jan. 2024)*
   - Studied extensively in the field of 3D Vision, covering 3D Representations, Static & Dynamic 3D Scene Reconstruction
@@ -112,21 +111,6 @@ Selected Courses: Computer Vision(Diffusion Models, Camera System)(A+), Deep Lea
   Honors: Spring 2022, Fall 2022<br/>High Honors: Spring 2023, Fall 2023 
 - Hanseong Son Jae Han Nobel Scholarship <br/>
   approx. 10,000 USD in total (awarded to up to 200 people every year) <br/>(*2017-2018*)
-
-# Military Service
-
-- Korean Army, Honorable Discharge <br/>Heavy Vehicle Driver, Commander Driver<br/>
-  *(Sep. 2020 ~ Mar. 2022)*
-
-## Skills
-
-- **Programming Languages:**  Python, C#(Unity), C++, Verilog
-
-- **Languages:** Korean(Native), English(Fluent, TOEFL 105)
-
-
-
-
 
 
 
