@@ -39,6 +39,10 @@ I have wide research interest in robot learning and I'm currently doing research
 Additionally, I'm excited to join UT Austin as an exchange student in Fall 2024!<br/>
 (funded by the Korea-U.S. Advanced Technology Youth Exchange Scholarship)<br/>
 
+<br/>
+
+Please refer to my recent [cv](https://jiho314.github.io/assets/cv.pdf) for more details!
+
 <!--
 
 Recently, my interests have evolved to encompass the development of meaningful decisions and actions derived from this perception, leading me toward the field of Robot Learning. Consequently, I am now refining research area within Robot Learning, aiming to integrate perception with actionable insights<br/>
@@ -71,9 +75,7 @@ Selected Courses: Computer Vision(Diffusion Models, Camera System)(A+), Deep Lea
 
 -->
 
-<br/>
 
-Please refer to my recent [cv](https://jiho314.github.io/assets/cv.pdf) for more details!
 
 <!--
 
