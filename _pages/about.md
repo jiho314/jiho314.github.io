@@ -19,9 +19,22 @@ permalink : /about/
 
 <img style="float: right;" src = "https://jiho314.github.io/assets/imgs/me.png" width = "30%" >
 
-Hi! I'm a senior undergraduate student majoring in Electrical & Electronic Engineering at Yonsei University, South Korea. Currently, I am conducting research on the topic of Coarse-to-fine Behavior Cloning with Action Sequence Quantization in [MLCSLab](https://mlcs.yonsei.ac.kr/). <br/>
+Hi! I'm a senior undergraduate student majoring in Electrical & Electronic Engineering at Yonsei University, South Korea. Currently, I am conducting research on the topic of Coarse-to-fine Behavior Cloning with Action Sequence Quantization. <br/>
 
 Previously, my intrigue was centered on the research field exploring the understanding of the 4D (dynamic 3D) world. Now, I'm deeply interested in how we can use this perception to make informed decisions and take meaningful actions. Consequently, I am refining my research area within Robot Learning, aiming to integrate perception with actionable insights.<br/>
+
+I have wide research interest in robot learning and I'm currently doing research on Behavior Cloning (Coarse-to-fine(hierarchical) behavior transformer with Action sequence quantization). (Planning to finish this work by August)
+
+<!--
+
+\- Self-Supervised Learning on Multi-Sensory Data of Agent w/ proprioception for RL (e.g. https://pbecker93.github.io/coral_pp/)
+\- Learning more(getting actionable insights) from observation (but not like using 3D representation, more human-like understanding), e.g. https://edwardshu.com/scaffolder/)
+\- Learning(BC/RL) for Complex Agent(e.g. humanoid, Multi-sensory Learning)
+\- Hierarchical RL / Planning, Offline-RL, ...
+
+-->
+
+
 
 Additionally, I'm excited to join UT Austin as an exchange student in Fall 2024!<br/>
 (funded by the Korea-U.S. Advanced Technology Youth Exchange Scholarship)<br/>
