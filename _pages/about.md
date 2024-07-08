@@ -75,7 +75,7 @@ Selected Courses: Computer Vision(Diffusion Models, Camera System)(A+), Deep Lea
 
 Please refer to my recent [cv](https://jiho314.github.io/assets/cv.pdf) for more details!
 
-
+<!--
 
 # Education
 
@@ -133,7 +133,7 @@ Please refer to my recent [cv](https://jiho314.github.io/assets/cv.pdf) for more
 
 
 
-
+-->
 
 
 
