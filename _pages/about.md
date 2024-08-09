@@ -21,7 +21,7 @@ permalink : /about/
 
 Hi! I'm a senior undergraduate student majoring in Electrical & Electronic Engineering at Yonsei University, South Korea. <br/>
 
-I am interested in how we can enable agents to obtain actionable insights from observations within a dynamic 3D world. Therefore, I have a broad research interest in the fields of energy-based/flow-matching models for planning/reasoning, egocentric multi-sensory learning, model-based RL, robot learning and 3D representation, among others.
+I am interested in how we can enable agents to obtain actionable insights from observations within a dynamic 3D world. Therefore, I have a broad research interest in the fields of Egocentric Multi-sensory Learning, Reinforcement Learning, Self-supervised Representation Learning, and Energy-based Modeling among others.
 
 
 
